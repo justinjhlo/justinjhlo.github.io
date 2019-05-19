@@ -2,7 +2,7 @@ body{
   background-image:url('../img/background_york.JPG');
   background-repeat:no-repeat;
   background-position:center;
-  background-size:cover;
+  background-size: auto 100vh;
 }
 
 @media screen and (max-width: 640px){
