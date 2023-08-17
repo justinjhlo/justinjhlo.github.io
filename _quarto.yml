@@ -1,0 +1,35 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Justin Lo"
+  favicon: img/favicon.png
+  twitter-card: true
+  site-url: https://justinjhlo.github.io
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+      - href: research.qmd
+      - href: resources.qmd
+    pinned: true
+    tools:
+      - icon: twitter
+        href: https://twitter.com/justinjhlo
+      - icon: mastodon
+        href: https://lingo.lol/@justinjhlo
+        rel: "me"
+      - icon: envelope-fill
+        href: "mailto:j.h.lo@lancaster.ac.uk"
+      - icon: github
+        href: https://github.com/justinjhlo
+
+format:
+  html:
+    theme: sandstone
+    fontsize: 0.95em
+    linkcolor: "#6b9430"
+    css: styles.css
+    toc: true

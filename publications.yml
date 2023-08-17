@@ -1,0 +1,240 @@
+manyspeech:
+  title: "Multidimensional signals and analytic flexibility: Estimating degrees of freedom in human-speech analyses"
+  author:
+    - Stefano Coretta
+    - Joseph V. Casillas
+    - "[98 authors]"
+    - self
+    - "[55 authors]"
+    - Timo B. Roettger
+  year: 2023
+  type: paper
+  venue: Advances in Methods and Practices in Psychological Science
+  venue-details: "6(3), 1–29"
+  url: http://dx.doi.org/10.1177/25152459231162567
+
+icphs2023-newmalden:
+  title: "Being North Korean in Koreatown: The role of identity & experience in accommodation in the London North Korean community"
+  author:
+    - Bronwen G. Evans
+    - Rakgyun Shin
+    - self
+  year: 2023
+  type: proceedings
+  venue: Proceedings of the 20th International Congress of Phonetic Sciences
+  venue-details: "3537–3542 (Eds: R. Skarnitzl & J. Volín; Guarant International)"
+  url: https://www.icphs2023.org/
+
+icphs2023-labial-coart:
+  title: "Language specificity vs speaker variability of anticipatory labial coarticulation in German and English"
+  author:
+    - self
+    - Christopher Carignan
+    - Marianne Pouplier
+    - Roy Alderton
+    - Francesco Rodriquez
+    - Bronwen G. Evans
+    - Eva Reinisch
+  year: 2023
+  type: proceedings
+  venue: Proceedings of the 20th International Congress of Phonetic Sciences
+  venue-details: "2105–2109 (Eds: R. Skarnitzl & J. Volín; Guarant International)"
+  url: https://www.icphs2023.org/
+
+icphs2023-nasal-coart:
+  title: "The window of opportunity: Anticipatory nasal coarticulation in three languages"
+  author:
+    - Marianne Pouplier
+    - Francesco Rodriquez
+    - Roy Alderton
+    - self
+    - Eva Reinisch
+    - Bronwen G. Evans
+    - Christopher Carignan
+  year: 2023
+  type: proceedings
+  venue: Proceedings of the 20th International Congress of Phonetic Sciences
+  venue-details: "2085–2089 (Eds: R. Skarnitzl & J. Volín; Guarant International)"
+  url: https://www.icphs2023.org/
+
+icphs2023-nasal-vowels:
+  title: "What French speakers' nasal vowels tell us about anticipatory nasal coarticulation"
+  author:
+    - Francesco Rodriquez
+    - Marianne Pouplier
+    - Roy Alderton
+    - self
+    - Bronwen G. Evans
+    - Eva Reinisch
+    - Christopher Carignan
+  year: 2023
+  type: proceedings
+  venue: Proceedings of the 20th International Congress of Phonetic Sciences
+  venue-details: "848–852 (Eds: R. Skarnitzl & J. Volín; Guarant International)"
+  url: https://www.icphs2023.org/
+
+pnp2022-nasal-de:
+  title: "Individual variation in anticipatory nasal coarticulation in German"
+  author:
+    - Roy Alderton
+    - Francesco Rodriquez
+    - Marianne Pouplier
+    - Christopher Carignan
+    - self
+    - Bronwen G. Evans
+    - Eva Reinisch
+  year: 2022
+  type: conference
+  venue: "Phonetik und Phonologie im deutschsprachigen Raum (P&P) 18"
+  venue-details: "Bielefeld, Germany, 6–7 October"
+  abstract: https://doi.org/10.11576/pundp2022-1054
+
+pnp2022-nasal-fr:
+  title: "Individual variability and contrast in French anticipatory nasal coarticulation"
+  author:
+    - Francesco Rodriquez
+    - Roy Alderton
+    - Marianne Pouplier
+    - Christopher Carignan
+    - self
+    - Bronwen G. Evans
+    - Eva Reinisch
+  year: 2022
+  type: conference
+  venue: "Phonetik und Phonologie im deutschsprachigen Raum (P&P) 18"
+  venue-details: "Bielefeld, Germany, 6–7 October"
+  abstract: https://doi.org/10.11576/pundp2022-993
+
+baap2022-vowel-space-gmm:
+  title: "Vowel space as shape: Applying geometric morphometrics to sociophonetic variation"
+  author:
+    - self
+    - Amelia J. Gully
+  year: 2022
+  type: conference
+  venue: "2022 Colloquium of the British Association of Academic Phoneticians (BAAP)"
+  venue-details: "York, UK, 4–8 April"
+  abstract: https://justinjhlo.github.io/publication/abstract/2022-baap-gmmderby.pdf
+  poster: https://justinjhlo.github.io/publication/poster/2022-baap-gmmderby.png
+
+baap2022-coart-constraint:
+  title: "Coarticulatory variability and phonological constraints"
+  author:
+    - Christopher Carignan
+    - self
+    - Marianne Pouplier
+    - Francesco Rodriquez
+    - Roy Alderton
+    - Eva Reinisch
+    - Bronwen G. Evans
+  year: 2022
+  type: conference
+  venue: "2022 Colloquium of the British Association of Academic Phoneticians (BAAP)"
+  venue-details: "York, UK, 4–8 April"
+  abstract: https://drive.google.com/file/d/197QRzFCSIksxxuFnKwI10MOAJzOQzxZc/view?usp=sharing
+
+trees-forest:
+  title: "Seeing the trees in the forest: Diagnosing individual performance in likelihood ratio based forensic voice comparison"
+  author:
+    - self
+  year: 2021
+  type: paper
+  venue: "Speaker individuality in phonetics and speech sciences: Speech technology and forensic applications"
+  venue-details: "77–96 (Eds: C. Bernardasci, D. Dipino, D. Garassion, S. Negrinelli, E. Pellegrino & S. Schmid; Associazione Italiana Scienze della Voce)"
+  url: https://doi.org/10.17469/O2108AISV000004
+  note: "Awarded Franco Ferrero Award (Speech Technology) 2022"
+
+interspeech2021-xling-ltfd:
+  title: "Cross-linguistic speaker individuality of long-term formant distributions: Phonetic and forensic perspectives"
+  author:
+    - self
+  year: 2021
+  type: proceedings
+  venue: Proceedings of Interspeech 2021
+  venue-details: "416–420 (Brno, Czech Republic, 30 August–3 September)"
+  url: https://doi.org/10.21437/Interspeech.2021-1699
+
+iafpa2021-xlang-fvc:
+  title: "Variation of individual performance in same- and cross-language likelihood ratio based forensic voice comparison"
+  author:
+    - self
+  year: 2021
+  type: conference
+  venue: "29th Annual Conference of the International Association for Forensic Phonetics and Acoustics (IAFPA)"
+  venue-details: "Marburg, Germany, 22–25 August"
+  abstract: https://justinjhlo.github.io/publication/abstract/2021-aisv-indivdiag.pdf
+
+ahm-euhm:
+  title: "Between *äh(m)* and *euh(m)*: The distribution and realization of filled pauses in the speech of German–French simultaneous bilinguals"
+  author:
+    - self
+  year: 2020
+  type: paper
+  venue: Language and Speech
+  venue-details: 63(4), 746-768
+  url: https://doi.org/10.1177/0023830919890068
+
+ismbs2019-french-fp:
+  title: "Effects of simultaneous bilingual acquisition on filled pauses in French speech"
+  author:
+    - self
+  year: 2019
+  type: conference
+  venue: "International Symposium on Monolingual and Bilingual Speech 2019"
+  venue-details: "Chania, Greece, 27–30 August"
+  abstract: https://justinjhlo.github.io/publication/abstract/2019-ismbs-frenchfp.pdf
+
+iafpa2019-biling-ltfd:
+  title: "Cross-linguistic stability of the discriminatory power of long-term formant distributions: Testing with bilingual speakers"
+  author:
+    - self
+  year: 2019
+  type: conference
+  venue: "28th Annual Conference of the International Association for Forensic Phonetics and Acoustics (IAFPA)"
+  venue-details: "Istanbul, Turkey, 14–17 July"
+  abstract: https://justinjhlo.github.io/publication/abstract/2019-iafpa-ltfd.pdf
+  poster: https://justinjhlo.github.io/publication/poster/2019-iafpa-ltfd.pdf
+  note: "Awarded IAFPA Student Travel Grant"
+
+iafpa2018-biling-s:
+  title: "One population, two langauges: How does language choice affect /s/peaker di/s/crimination?"
+  author:
+    - self
+  year: 2018
+  type: conference
+  venue: "27th Annual Conference of the International Association for Forensic Phonetics and Acoustics (IAFPA)"
+  venue-details: "Huddersfield, UK, 29 July–1 August"
+  abstract: https://justinjhlo.github.io/publication/abstract/2018-iafpa-OPTL.pdf
+  poster: https://justinjhlo.github.io/publication/poster/2018-iafpa-OPTL.pdf
+
+baap2018-biling-fp:
+  title: "Exploring the effects of bilingualism on filled pauses: An acoustic-phonetic perspective"
+  author:
+    - self
+  year: 2018
+  type: conference
+  venue: "2018 Colloquium of the British Association of Academic Phoneticians (BAAP)"
+  venue-details: "Canterbury, Kent, UK, 12–14 April"
+  abstract: https://justinjhlo.github.io/publication/abstract/2018-baap-bilingualfp.pdf
+  slides: https://justinjhlo.github.io/publication/slides/2018-baap-bilingualfp.pdf
+
+parlay2016-punjabi-rhythm:
+  title: "Rhythm variation in varieties of English: A quantitative comparison between Punjabi English and Standard Southern British English"
+  author:
+    - self
+  year: 2016
+  type: conference
+  venue: "4th Postgraduate and Academic Researchers in Linguistics at York (PARLAY) Conference"
+  venue-details: "York, UK, 2 September"
+  abstract: https://justinjhlo.github.io/publication/abstract/2016-parlay-rhythm.pdf
+
+iafpa2016-biling-fp:
+  title: "The effect of bilingualism on filled pauses and their discriminatory power"
+  author:
+    - self
+  year: 2016
+  type: conference
+  venue: "25th Annual Conference of the International Association for Forensic Phonetics and Acoustics (IAFPA)"
+  venue-details: "York, UK, 24–27 July"
+  abstract: https://justinjhlo.github.io/publication/abstract/2016-iafpa-bilingualfp.pdf
+  poster: https://justinjhlo.github.io/publication/poster/2016-iafpa-bilingualfp.pdf

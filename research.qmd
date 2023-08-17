@@ -1,0 +1,73 @@
+---
+title: "Research"
+echo: false
+keep-md: true
+jupyter: julia-1.6
+---
+
+```{julia}
+import YAML
+using OrderedCollections
+
+data = YAML.load_file("publications.yml"; dicttype = OrderedDict{String, Any})
+
+papers = filter(x -> x["type"] == "paper", collect(values(data)))
+proceedings = filter(x -> x["type"] == "proceedings", collect(values(data)))
+conf = filter(x -> x["type"] == "conference", collect(values(data)))
+
+nothing
+```
+
+## Journal articles & Book chapters
+
+```{julia}
+#| output: asis
+
+years_ind = unique(i -> papers[i]["year"], 1:length(papers))
+for (i, p) in enumerate(papers)
+    i ∈ years_ind && println("### " * string(p["year"])) 
+
+    println("#### " * p["title"])
+    println(join(replace.(p["author"], r"^self$" => "**Justin J. H. Lo**"), ", ") * "  ")
+    println("[*" * p["venue"] * "*](" * p["url"] * ")" * (haskey(p, "venue-details") ? ", " * p["venue-details"] : ""))
+    println("")
+end
+```
+
+## Conference proceedings
+
+```{julia}
+#| output: asis
+
+years_ind = unique(i -> proceedings[i]["year"], 1:length(proceedings))
+for (i, p) in enumerate(proceedings)
+    i ∈ years_ind && println("### " * string(p["year"]))
+
+    println("#### " * p["title"])
+    println(join(replace.(p["author"], r"^self$" => "**Justin J. H. Lo**"), ", ") * "  ")
+    println("[*" * p["venue"] * "*](" * p["url"] * ")" * (haskey(p, "venue-details") ? ", " * p["venue-details"] : ""))
+    println("")
+end
+```
+
+## Other conference presentations
+
+```{julia}
+#| output: asis
+
+years_ind = unique(i -> conf[i]["year"], 1:length(conf))
+for (i, p) in enumerate(conf)
+    i ∈ years_ind && println("### " * string(p["year"]))
+
+    println("#### " * p["title"])
+    println(join(replace.(p["author"], r"^self$" => "**Justin J. H. Lo**"), ", ") * "  ")
+    println(p["venue"] * (haskey(p, "venue-details") ? ", " * p["venue-details"] : ""))
+    println("")
+    
+    haskey(p, "abstract") && print("[Abstract](" * p["abstract"] * "){.btn .btn-outline-primary .mx-1}")
+    haskey(p, "poster") && print("[Poster](" * p["poster"] * "){.btn .btn-outline-info}")
+    haskey(p, "slides") && print("[Slides](" * p["slides"] * "){.btn .btn-outline-warning}")
+    println("")
+    println("")
+end
+```

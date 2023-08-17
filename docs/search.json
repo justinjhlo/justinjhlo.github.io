@@ -1,0 +1,107 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Justin J. H. Lo",
+    "section": "",
+    "text": "I am a postdoctoral Research Fellow at the Department of Speech, Hearing and Phonetic Sciences, University College London, investigating the role of phonological contrasts and speaker variability on coarticulation within the DFG-AHRC funded project Speakers, Listeners, Langauges: Patterns of Variability and Contrast in Spoken Language Dynamics. In September 2023, I will be a Lecturer in Security and Protection Science at the Department of Linguistics and English Language, Lancaster University.\nMy research is primarily situated in the area of forensic speech science, with a particular focus on questions related to bilingualism and voice identity. I also have broad interests in sociophonetics and articulatory and acoustic phonetics, and am keen on bringing theoretical, practical and methodological insights from these areas to the field of forensic phonetics.\nOutside work, I spend most time solving crosswords, living in fictional worlds and struggling to follow baking recipes."
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "I developed an in-house package Julia to process video data captured using Lallouche’s “blue lip” technique. This package provides functionalities to automate the extraction of lip aperture and protrusion data based on videos taken from a frontal or side view."
+  },
+  {
+    "objectID": "resources.html#blueliptracking.jl",
+    "href": "resources.html#blueliptracking.jl",
+    "title": "Resources",
+    "section": "",
+    "text": "I developed an in-house package Julia to process video data captured using Lallouche’s “blue lip” technique. This package provides functionalities to automate the extraction of lip aperture and protrusion data based on videos taken from a frontal or side view."
+  },
+  {
+    "objectID": "resources.html#textgrids.jl",
+    "href": "resources.html#textgrids.jl",
+    "title": "Resources",
+    "section": "TextGrids.jl",
+    "text": "TextGrids.jl\nI am developing a package in Julia to provide the capacities to manipulate, edit, and extract information from Praat TextGrids, in support of my current work in video data analysis. At this stage, the package supports reading and writing of TextGrids (with various encodings supported), as well as basic querying and manipulation of tiers, points and boundaries.\nGitHub"
+  },
+  {
+    "objectID": "resources.html#fvclrr",
+    "href": "resources.html#fvclrr",
+    "title": "Resources",
+    "section": "fvclrr",
+    "text": "fvclrr\nI developed an R package, fvclrr, that can facilitate likelihood ratio based testing in forensic voice comparison. At the moment, the package supports modelling via MVKD and GMM–UBM, and calculates two metrics, ERR and Cllr, by default. It also supports cross-validated testing, but this feature has not been extensively tested.\nAs the package was developed primarily to support my own PhD work, there may be a number of personal quirks in the way methods are interpreted and implemented.\nGitHub"
+  },
+  {
+    "objectID": "resources.html#linguistic-games",
+    "href": "resources.html#linguistic-games",
+    "title": "Resources",
+    "section": "Linguistic games",
+    "text": "Linguistic games\nSome (currently, one) educational linguistic games that I have written myself:\n\nMinimal pair memory cards: Match words in English that can form a minimal pair"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Stefano Coretta, Joseph V. Casillas, [98 authors], Justin J. H. Lo, [55 authors], Timo B. Roettger\nAdvances in Methods and Practices in Psychological Science, 6(3), 1–29\n\n\n\n\n\n\nJustin J. H. Lo\nSpeaker individuality in phonetics and speech sciences: Speech technology and forensic applications, 77–96 (Eds: C. Bernardasci, D. Dipino, D. Garassion, S. Negrinelli, E. Pellegrino & S. Schmid; Associazione Italiana Scienze della Voce)\n\n\n\n\n\n\nJustin J. H. Lo\nLanguage and Speech, 63(4), 746-768"
+  },
+  {
+    "objectID": "research.html#journal-articles-book-chapters",
+    "href": "research.html#journal-articles-book-chapters",
+    "title": "Research",
+    "section": "",
+    "text": "Stefano Coretta, Joseph V. Casillas, [98 authors], Justin J. H. Lo, [55 authors], Timo B. Roettger\nAdvances in Methods and Practices in Psychological Science, 6(3), 1–29\n\n\n\n\n\n\nJustin J. H. Lo\nSpeaker individuality in phonetics and speech sciences: Speech technology and forensic applications, 77–96 (Eds: C. Bernardasci, D. Dipino, D. Garassion, S. Negrinelli, E. Pellegrino & S. Schmid; Associazione Italiana Scienze della Voce)\n\n\n\n\n\n\nJustin J. H. Lo\nLanguage and Speech, 63(4), 746-768"
+  },
+  {
+    "objectID": "research.html#conference-proceedings",
+    "href": "research.html#conference-proceedings",
+    "title": "Research",
+    "section": "Conference proceedings",
+    "text": "Conference proceedings\n\n2023\n\nBeing North Korean in Koreatown: The role of identity & experience in accommodation in the London North Korean community\nBronwen G. Evans, Rakgyun Shin, Justin J. H. Lo\nProceedings of the 20th International Congress of Phonetic Sciences, 3537–3542 (Eds: R. Skarnitzl & J. Volín; Guarant International)\n\n\nLanguage specificity vs speaker variability of anticipatory labial coarticulation in German and English\nJustin J. H. Lo, Christopher Carignan, Marianne Pouplier, Roy Alderton, Francesco Rodriquez, Bronwen G. Evans, Eva Reinisch\nProceedings of the 20th International Congress of Phonetic Sciences, 2105–2109 (Eds: R. Skarnitzl & J. Volín; Guarant International)\n\n\nThe window of opportunity: Anticipatory nasal coarticulation in three languages\nMarianne Pouplier, Francesco Rodriquez, Roy Alderton, Justin J. H. Lo, Eva Reinisch, Bronwen G. Evans, Christopher Carignan\nProceedings of the 20th International Congress of Phonetic Sciences, 2085–2089 (Eds: R. Skarnitzl & J. Volín; Guarant International)\n\n\nWhat French speakers’ nasal vowels tell us about anticipatory nasal coarticulation\nFrancesco Rodriquez, Marianne Pouplier, Roy Alderton, Justin J. H. Lo, Bronwen G. Evans, Eva Reinisch, Christopher Carignan\nProceedings of the 20th International Congress of Phonetic Sciences, 848–852 (Eds: R. Skarnitzl & J. Volín; Guarant International)\n\n\n\n2021\n\nCross-linguistic speaker individuality of long-term formant distributions: Phonetic and forensic perspectives\nJustin J. H. Lo\nProceedings of Interspeech 2021, 416–420 (Brno, Czech Republic, 30 August–3 September)"
+  },
+  {
+    "objectID": "research.html#other-conference-presentations",
+    "href": "research.html#other-conference-presentations",
+    "title": "Research",
+    "section": "Other conference presentations",
+    "text": "Other conference presentations\n\n2022\n\nIndividual variation in anticipatory nasal coarticulation in German\nRoy Alderton, Francesco Rodriquez, Marianne Pouplier, Christopher Carignan, Justin J. H. Lo, Bronwen G. Evans, Eva Reinisch\nPhonetik und Phonologie im deutschsprachigen Raum (P&P) 18, Bielefeld, Germany, 6–7 October\nAbstract\n\n\nIndividual variability and contrast in French anticipatory nasal coarticulation\nFrancesco Rodriquez, Roy Alderton, Marianne Pouplier, Christopher Carignan, Justin J. H. Lo, Bronwen G. Evans, Eva Reinisch\nPhonetik und Phonologie im deutschsprachigen Raum (P&P) 18, Bielefeld, Germany, 6–7 October\nAbstract\n\n\nVowel space as shape: Applying geometric morphometrics to sociophonetic variation\nJustin J. H. Lo, Amelia J. Gully\n2022 Colloquium of the British Association of Academic Phoneticians (BAAP), York, UK, 4–8 April\nAbstractPoster\n\n\nCoarticulatory variability and phonological constraints\nChristopher Carignan, Justin J. H. Lo, Marianne Pouplier, Francesco Rodriquez, Roy Alderton, Eva Reinisch, Bronwen G. Evans\n2022 Colloquium of the British Association of Academic Phoneticians (BAAP), York, UK, 4–8 April\nAbstract\n\n\n\n2021\n\nVariation of individual performance in same- and cross-language likelihood ratio based forensic voice comparison\nJustin J. H. Lo\n29th Annual Conference of the International Association for Forensic Phonetics and Acoustics (IAFPA), Marburg, Germany, 22–25 August\nAbstract\n\n\n\n2019\n\nEffects of simultaneous bilingual acquisition on filled pauses in French speech\nJustin J. H. Lo\nInternational Symposium on Monolingual and Bilingual Speech 2019, Chania, Greece, 27–30 August\nAbstract\n\n\nCross-linguistic stability of the discriminatory power of long-term formant distributions: Testing with bilingual speakers\nJustin J. H. Lo\n28th Annual Conference of the International Association for Forensic Phonetics and Acoustics (IAFPA), Istanbul, Turkey, 14–17 July\nAbstractPoster\n\n\n\n2018\n\nOne population, two langauges: How does language choice affect /s/peaker di/s/crimination?\nJustin J. H. Lo\n27th Annual Conference of the International Association for Forensic Phonetics and Acoustics (IAFPA), Huddersfield, UK, 29 July–1 August\nAbstractPoster\n\n\nExploring the effects of bilingualism on filled pauses: An acoustic-phonetic perspective\nJustin J. H. Lo\n2018 Colloquium of the British Association of Academic Phoneticians (BAAP), Canterbury, Kent, UK, 12–14 April\nAbstractSlides\n\n\n\n2016\n\nRhythm variation in varieties of English: A quantitative comparison between Punjabi English and Standard Southern British English\nJustin J. H. Lo\n4th Postgraduate and Academic Researchers in Linguistics at York (PARLAY) Conference, York, UK, 2 September\nAbstract\n\n\nThe effect of bilingualism on filled pauses and their discriminatory power\nJustin J. H. Lo\n25th Annual Conference of the International Association for Forensic Phonetics and Acoustics (IAFPA), York, UK, 24–27 July\nAbstractPoster"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "My current projects include:\n\nThe effect of vocal effort on the variability of nasal coarticulation (IAFPA Research Grant, 2023)\nTalk and identity in the North Korean refugee diaspora (with Bronwen Evans, Jieun Song & Rakgyun Shin, UCL Global Engagement Fund, 2023–24)"
+  },
+  {
+    "objectID": "about.html#research",
+    "href": "about.html#research",
+    "title": "About",
+    "section": "",
+    "text": "My current projects include:\n\nThe effect of vocal effort on the variability of nasal coarticulation (IAFPA Research Grant, 2023)\nTalk and identity in the North Korean refugee diaspora (with Bronwen Evans, Jieun Song & Rakgyun Shin, UCL Global Engagement Fund, 2023–24)"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "Education",
+    "text": "Education\nPhD in Linguistics, University of York\n\nDissertation: Issues of bilingualism in likelihood ratio-based forensic voice comparison\nSupervisors: Paul Foulkes & Vincent Hughes\n\nMSc in Forensic Speech Science (Distinction), University of York\n\nDissertation: Double trouble?: The effect of bilingualism on filled pauses and their discriminatory power in forensic voice comparison\nSupervisors: Paul Foulkes & Vincent Hughes\n\nBachelor of Laws (Second Class Honours: Division One), The University of Hong Kong"
+  },
+  {
+    "objectID": "about.html#roles",
+    "href": "about.html#roles",
+    "title": "About",
+    "section": "Roles",
+    "text": "Roles\nTreasurer, UK Linguistics Olympiad\nCoordinator, Speech Science Forum seminar series, Department of Speech, Hearing and Phonetic Sciences, UCL (2021–2023)\nEditor, York Papers in Linguistics (2018–2021)\nOrganiser, 6th & 7th Postgraduate Academic Researchers in Linguistics at York (PARLAY) Conference (2019, 2021)\nConvenor, Forensic Speech Science Research Group, University of York (2018–2021)\nPGR Course Representative, Department of Language and Linguistic Science, University of York (2017–2018)"
+  },
+  {
+    "objectID": "about.html#memberships",
+    "href": "about.html#memberships",
+    "title": "About",
+    "section": "Memberships",
+    "text": "Memberships\nBritish Association of Academic Phoneticians\nInternational Association for Forensic Phonetics and Acoustics\nLinguistics Association of Great Britain"
+  }
+]

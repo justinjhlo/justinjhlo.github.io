@@ -1,0 +1,27 @@
+---
+title: "Resources"
+---
+
+## BlueLipTracking.jl
+
+I developed an in-house package Julia to process video data captured using Lallouche's "blue lip" technique. This package provides functionalities to automate the extraction of lip aperture and protrusion data based on videos taken from a frontal or side view.
+
+## TextGrids.jl
+
+I am developing a package in Julia to provide the capacities to manipulate, edit, and extract information from Praat TextGrids, in support of my current work in video data analysis. At this stage, the package supports reading and writing of TextGrids (with various encodings supported), as well as basic querying and manipulation of tiers, points and boundaries.
+
+[GitHub](https://github.com/justinjhlo/TextGrids.jl){.btn .btn-outline-secondary}
+
+## fvclrr
+
+I developed an R package, *fvclrr*, that can facilitate likelihood ratio based testing in forensic voice comparison. At the moment, the package supports modelling via MVKD and GMM–UBM, and calculates two metrics, ERR and Cllr, by default. It also supports cross-validated testing, but this feature has not been extensively tested.
+
+As the package was developed primarily to support my own PhD work, there may be a number of personal quirks in the way methods are interpreted and implemented.
+
+[GitHub](https://github.com/justinjhlo/fvclrr){.btn .btn-outline-secondary}
+
+## Linguistic games
+
+Some (currently, one) educational linguistic games that I have written myself:
+
+- [Minimal pair memory cards](http://justinjhlo.shinyapps.io/minimal-pairs/): Match words in English that can form a minimal pair
