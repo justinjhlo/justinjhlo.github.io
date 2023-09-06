@@ -17,9 +17,11 @@ page-layout: full
 
 ::: {.column width="60%"}
 
-I am a postdoctoral Research Fellow at the [Department of Speech, Hearing and Phonetic Sciences, University College London](https://www.ucl.ac.uk/pals/research/speech-hearing-and-phonetic-sciences), investigating the role of phonological contrasts and speaker variability on coarticulation within the DFG-AHRC funded project *Speakers, Listeners, Langauges: Patterns of Variability and Contrast in Spoken Language Dynamics*. In September 2023, I will be a Lecturer in Security and Protection Science at the [Department of Linguistics and English Language, Lancaster University](https://lancaster.ac.uk/linguistics/).
+I am a Lecturer in Security and Protection Science at the [Department of Linguistics and English Language, Lancaster University](https://lancaster.ac.uk/linguistics/), where I am affiliated with the [Phonetics Lab](http://wp.lancs.ac.uk/phonetics/).
 
 My research is primarily situated in the area of forensic speech science, with a particular focus on questions related to bilingualism and voice identity. I also have broad interests in sociophonetics and articulatory and acoustic phonetics, and am keen on bringing theoretical, practical and methodological insights from these areas to the field of forensic phonetics.
+
+Previously, I was a postdoctoral Research Fellow at the Department of Speech, Hearing and Phonetic Sciences, University College London, where I investigated the role of phonological contrasts and speaker variability on coarticulation as a member of the DFG-AHRC funded project *Speakers, Listeners, Langauges: Patterns of Variability and Contrast in Spoken Language Dynamics*.
 
 Outside work, I spend most time solving crosswords, living in fictional worlds and struggling to follow baking recipes.
 
