@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Justin J. H. Lo",
-    "section": "",
-    "text": "I am a Lecturer in Security and Protection Science at the Department of Linguistics and English Language, Lancaster University, where I am affiliated with the Phonetics Lab.\nMy research is primarily situated in the area of forensic speech science, with a particular focus on questions related to bilingualism and voice identity. I also have broad interests in sociophonetics and articulatory and acoustic phonetics, and am keen on bringing theoretical, practical and methodological insights from these areas to the field of forensic phonetics.\nPreviously, I was a postdoctoral Research Fellow at the Department of Speech, Hearing and Phonetic Sciences, University College London, where I investigated the role of phonological contrasts and speaker variability on coarticulation as a member of the DFG-AHRC funded project Speakers, Listeners, Langauges: Patterns of Variability and Contrast in Spoken Language Dynamics.\nOutside work, I spend most time solving crosswords, living in fictional worlds and struggling to follow baking recipes."
-  },
-  {
     "objectID": "resources.html",
     "href": "resources.html",
     "title": "Resources",
@@ -40,6 +33,13 @@
     "title": "Resources",
     "section": "Linguistic games",
     "text": "Linguistic games\nSome (currently, one) educational linguistic games that I have written myself:\n\nMinimal pair memory cards: Match words in English that can form a minimal pair"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Justin J. H. Lo",
+    "section": "",
+    "text": "I am a Lecturer in Security and Protection Science at the Department of Linguistics and English Language, Lancaster University, where I am affiliated with the Phonetics Lab and the Forensic Linguistics, Cybersecurity and Technology Research Group (FACTOR).\nMy research is primarily situated in the area of forensic speech science, with a particular focus on questions related to bilingualism and voice identity. I also have broad interests in sociophonetics and articulatory and acoustic phonetics, and am keen on bringing theoretical, practical and methodological insights from these areas to the field of forensic phonetics.\nPreviously, I was a postdoctoral Research Fellow at the Department of Speech, Hearing and Phonetic Sciences, University College London, where I investigated the role of phonological contrasts and speaker variability on coarticulation as a member of the DFG-AHRC funded project Speakers, Listeners, Langauges: Patterns of Variability and Contrast in Spoken Language Dynamics.\nOutside work, I spend most time solving crosswords, living in fictional worlds and struggling to follow baking recipes."
   },
   {
     "objectID": "research.html",
