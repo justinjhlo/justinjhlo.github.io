@@ -54,6 +54,49 @@ Francesco Rodriquez, Marianne Pouplier, Roy Alderton, **Justin J. H. Lo**, Bronw
 
 ## Other conference presentations
 
+### 2024
+#### Using anticipatory nasal coarticulation for word recognition in German and French
+Eva Reinisch, Marianne Pouplier, Francesco Rodriquez, Phil J. Howson, **Justin J. H. Lo**, Christopher Carignan, Bronwen G. Evans  
+19th Conference on Laboratory Phonology (LabPhon), Seoul, South Korea, 27–29 June
+
+
+
+#### Perception of time-varying coarticulatory cues: Nasal and labial coarticulation in French
+Francesco Rodriquez, Marianne Pouplier, Phil J. Howson, Eva Reinisch, **Justin J. H. Lo**, Christopher Carignan, Bronwen G. Evans  
+19th Conference on Laboratory Phonology (LabPhon), Seoul, South Korea, 27–29 June
+
+
+
+#### Speaker- and vowel-dependent anticipatory nasal coarticulation in Southern British English
+**Justin J. H. Lo**  
+19th Conference on Laboratory Phonology (LabPhon), Seoul, South Korea, 27–29 June
+
+
+
+#### Comparing the real-time perception of French nasal and labial coarticulation
+Francesco Rodriquez, Marianne Pouplier, Phil J. Howson, Eva Reinisch, **Justin J. H. Lo**, Christopher Carignan, Bronwen G. Evans  
+13th International Seminar on Speech Production (ISSP), Autrans, France, 13-17 May
+
+
+
+#### The interaction between phonetics and phonology when processing the acoustic signal: Evidence from labial coarticulation in English and French
+Phil J. Howson, Marianne Pouplier, Francesco Rodriquez, Eva Reinisch, **Justin J. H. Lo**, Christopher Carignan, Bronwen G. Evans  
+13th International Seminar on Speech Production (ISSP), Autrans, France, 13-17 May
+
+
+
+#### A nasometric study of anticipatory vowel nasalisation in Southern British English
+**Justin J. H. Lo**  
+2024 Colloquium of the British Association of Academic Phoneticians (BAAP), Cardiff, UK, 25–27 March
+
+[Abstract](https://justinjhlo.github.io/publication/abstract/2024-baap-BrEnasal.pdf){.btn .btn-outline-primary .mx-1}
+
+#### A community within a community: Talk and identity in the North Korean refugee diaspora
+Bronwen G. Evans, Rakgyun Shin, Jieun Song, **Justin J. H. Lo**  
+2024 Colloquium of the British Association of Academic Phoneticians (BAAP), Cardiff, UK, 25–27 March
+
+[Abstract](https://justinjhlo.github.io/publication/abstract/2024-baap-nkvowels.pdf){.btn .btn-outline-primary .mx-1}
+
 ### 2022
 #### Individual variation in anticipatory nasal coarticulation in German
 Roy Alderton, Francesco Rodriquez, Marianne Pouplier, Christopher Carignan, **Justin J. H. Lo**, Bronwen G. Evans, Eva Reinisch  

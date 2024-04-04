@@ -1,3 +1,96 @@
+labphon2024-nasal-perception:
+  title: "Using anticipatory nasal coarticulation for word recognition in German and French"
+  author:
+    - Eva Reinisch
+    - Marianne Pouplier
+    - Francesco Rodriquez
+    - Phil J. Howson
+    - self
+    - Christopher Carignan
+    - Bronwen G. Evans
+  year: 2024
+  type: conference
+  venue: 19th Conference on Laboratory Phonology (LabPhon)
+  venue-details: "Seoul, South Korea, 27–29 June"
+
+
+labphon2024-fr-perception:
+  title: "Perception of time-varying coarticulatory cues: Nasal and labial coarticulation in French"
+  author:
+    - Francesco Rodriquez
+    - Marianne Pouplier
+    - Phil J. Howson
+    - Eva Reinisch
+    - self
+    - Christopher Carignan
+    - Bronwen G. Evans
+  year: 2024
+  type: conference
+  venue: 19th Conference on Laboratory Phonology (LabPhon)
+  venue-details: "Seoul, South Korea, 27–29 June"
+
+labphon2024-br-nasal:
+  title: "Speaker- and vowel-dependent anticipatory nasal coarticulation in Southern British English"
+  author:
+    - self
+  year: 2024
+  type: conference
+  venue: 19th Conference on Laboratory Phonology (LabPhon)
+  venue-details: "Seoul, South Korea, 27–29 June"
+
+issp2024-fr-perception:
+  title: "Comparing the real-time perception of French nasal and labial coarticulation"
+  author:
+    - Francesco Rodriquez
+    - Marianne Pouplier
+    - Phil J. Howson
+    - Eva Reinisch
+    - self
+    - Christopher Carignan
+    - Bronwen G. Evans
+  year: 2024
+  type: conference
+  venue: 13th International Seminar on Speech Production (ISSP)
+  venue-details: "Autrans, France, 13-17 May"
+
+issp2024-labial-perception:
+  title: "The interaction between phonetics and phonology when processing the acoustic signal: Evidence from labial coarticulation in English and French"
+  author:
+    - Phil J. Howson
+    - Marianne Pouplier
+    - Francesco Rodriquez
+    - Eva Reinisch
+    - self
+    - Christopher Carignan
+    - Bronwen G. Evans
+  year: 2024
+  type: conference
+  venue: 13th International Seminar on Speech Production (ISSP)
+  venue-details: "Autrans, France, 13-17 May"
+
+baap2024-nasal:
+  title: "A nasometric study of anticipatory vowel nasalisation in Southern British English"
+  author:
+    - self
+  year: 2024
+  type: conference
+  venue: 2024 Colloquium of the British Association of Academic Phoneticians (BAAP)
+  venue-details: "Cardiff, UK, 25–27 March"
+  abstract: https://justinjhlo.github.io/publication/abstract/2024-baap-BrEnasal.pdf
+
+baap2024-north-korean:
+  title: "A community within a community: Talk and identity in the North Korean refugee diaspora"
+  author:
+    - Bronwen G. Evans
+    - Rakgyun Shin
+    - Jieun Song
+    - self
+  year: 2024
+  type: conference
+  venue: 2024 Colloquium of the British Association of Academic Phoneticians (BAAP)
+  venue-details: "Cardiff, UK, 25–27 March"
+  abstract: https://justinjhlo.github.io/publication/abstract/2024-baap-nkvowels.pdf
+
 manyspeech:
   title: "Multidimensional signals and analytic flexibility: Estimating degrees of freedom in human-speech analyses"
   author:
