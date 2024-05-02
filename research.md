@@ -55,6 +55,12 @@ Francesco Rodriquez, Marianne Pouplier, Roy Alderton, **Justin J. H. Lo**, Bronw
 ## Other conference presentations
 
 ### 2024
+#### Residual rhoticity in East Lancashire English: Variation in Blackburn and Burnley
+Claire Nance, Maya Dewhurst, Lois Fairclough, Pamels Forster, Sam Kirkham, **Justin J. H. Lo**, Jessica McMonagle, Takayuki Nagamine, Seren Parkman, Haleema Rabani, Danielle Turton, Di Wang  
+10th Northern Englishes Workshop (NEW10), Chester, UK, 27-28 June
+
+
+
 #### Using anticipatory nasal coarticulation for word recognition in German and French
 Eva Reinisch, Marianne Pouplier, Francesco Rodriquez, Phil J. Howson, **Justin J. H. Lo**, Christopher Carignan, Bronwen G. Evans  
 19th Conference on Laboratory Phonology (LabPhon), Seoul, South Korea, 27–29 June
