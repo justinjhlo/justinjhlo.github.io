@@ -17,7 +17,7 @@ page-layout: full
 
 ::: {.column width="60%"}
 
-I am a Lecturer in Security and Protection Science at the [Department of Linguistics and English Language, Lancaster University](https://lancaster.ac.uk/linguistics/), where I am affiliated with the [Phonetics Lab](http://wp.lancs.ac.uk/phonetics/) and the [Forensic Linguistics, Cybersecurity and Technology Research Group (FACTOR)](https://www.linkedin.com/company/factor-lancaster/).
+I am a Lecturer in Security and Protection Science at the [Department of Linguistics and English Language, Lancaster University](https://lancaster.ac.uk/linguistics/), where I am affiliated with the [Phonetics Lab](http://wp.lancs.ac.uk/phonetics/) and the [Forensic Linguistics, Cybersecurity and Technology Research Group (FACTOR)](https://www.linkedin.com/company/factor-lancaster/). I am also a memeber of the [Data Science Institute](https://www.lancaster.ac.uk/dsi/).
 
 My research is primarily situated in the area of forensic speech science, with a particular focus on questions related to bilingualism and voice identity. I also have broad interests in sociophonetics and articulatory and acoustic phonetics, and am keen on bringing theoretical, practical and methodological insights from these areas to the field of forensic phonetics.
 
