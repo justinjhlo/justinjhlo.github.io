@@ -2,6 +2,9 @@ project:
   type: website
   output-dir: docs
 
+resources:
+  - "publication/*"
+
 website:
   title: "Justin Lo"
   favicon: img/favicon.png

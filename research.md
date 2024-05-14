@@ -101,13 +101,13 @@ Phil J. Howson, Marianne Pouplier, Francesco Rodriquez, Eva Reinisch, **Justin J
 **Justin J. H. Lo**  
 2024 Colloquium of the British Association of Academic Phoneticians (BAAP), Cardiff, UK, 25–27 March
 
-[Abstract](https://justinjhlo.github.io/publication/abstract/2024-baap-BrEnasal.pdf){.btn .btn-outline-primary .mx-1}
+[Abstract](publication/abstract/2024-baap-BrEnasal.pdf){.btn .btn-outline-primary .mx-1}
 
 #### A community within a community: Talk and identity in the North Korean refugee diaspora
 Bronwen G. Evans, Rakgyun Shin, Jieun Song, **Justin J. H. Lo**  
 2024 Colloquium of the British Association of Academic Phoneticians (BAAP), Cardiff, UK, 25–27 March
 
-[Abstract](https://justinjhlo.github.io/publication/abstract/2024-baap-nkvowels.pdf){.btn .btn-outline-primary .mx-1}
+[Abstract](publication/abstract/2024-baap-nkvowels.pdf){.btn .btn-outline-primary .mx-1}
 
 ### 2022
 #### Individual variation in anticipatory nasal coarticulation in German
@@ -126,7 +126,7 @@ Phonetik und Phonologie im deutschsprachigen Raum (P&P) 18, Bielefeld, Germany, 
 **Justin J. H. Lo**, Amelia J. Gully  
 2022 Colloquium of the British Association of Academic Phoneticians (BAAP), York, UK, 4–8 April
 
-[Abstract](https://justinjhlo.github.io/publication/abstract/2022-baap-gmmderby.pdf){.btn .btn-outline-primary .mx-1}[Poster](https://justinjhlo.github.io/publication/poster/2022-baap-gmmderby.png){.btn .btn-outline-info}
+[Abstract](publication/abstract/2022-baap-gmmderby.pdf){.btn .btn-outline-primary .mx-1}[Poster](publication/poster/2022-baap-gmmderby.png){.btn .btn-outline-info}
 
 #### Coarticulatory variability and phonological constraints
 Christopher Carignan, **Justin J. H. Lo**, Marianne Pouplier, Francesco Rodriquez, Roy Alderton, Eva Reinisch, Bronwen G. Evans  
@@ -139,46 +139,46 @@ Christopher Carignan, **Justin J. H. Lo**, Marianne Pouplier, Francesco Rodrique
 **Justin J. H. Lo**  
 29th Annual Conference of the International Association for Forensic Phonetics and Acoustics (IAFPA), Marburg, Germany, 22–25 August
 
-[Abstract](https://justinjhlo.github.io/publication/abstract/2021-aisv-indivdiag.pdf){.btn .btn-outline-primary .mx-1}
+[Abstract](publication/abstract/2021-aisv-indivdiag.pdf){.btn .btn-outline-primary .mx-1}
 
 ### 2019
 #### Effects of simultaneous bilingual acquisition on filled pauses in French speech
 **Justin J. H. Lo**  
 International Symposium on Monolingual and Bilingual Speech 2019, Chania, Greece, 27–30 August
 
-[Abstract](https://justinjhlo.github.io/publication/abstract/2019-ismbs-frenchfp.pdf){.btn .btn-outline-primary .mx-1}
+[Abstract](publication/abstract/2019-ismbs-frenchfp.pdf){.btn .btn-outline-primary .mx-1}
 
 #### Cross-linguistic stability of the discriminatory power of long-term formant distributions: Testing with bilingual speakers
 **Justin J. H. Lo**  
 28th Annual Conference of the International Association for Forensic Phonetics and Acoustics (IAFPA), Istanbul, Turkey, 14–17 July
 
-[Abstract](https://justinjhlo.github.io/publication/abstract/2019-iafpa-ltfd.pdf){.btn .btn-outline-primary .mx-1}[Poster](https://justinjhlo.github.io/publication/poster/2019-iafpa-ltfd.pdf){.btn .btn-outline-info}
+[Abstract](publication/abstract/2019-iafpa-ltfd.pdf){.btn .btn-outline-primary .mx-1}[Poster](publication/poster/2019-iafpa-ltfd.pdf){.btn .btn-outline-info}
 
 ### 2018
 #### One population, two langauges: How does language choice affect /s/peaker di/s/crimination?
 **Justin J. H. Lo**  
 27th Annual Conference of the International Association for Forensic Phonetics and Acoustics (IAFPA), Huddersfield, UK, 29 July–1 August
 
-[Abstract](https://justinjhlo.github.io/publication/abstract/2018-iafpa-OPTL.pdf){.btn .btn-outline-primary .mx-1}[Poster](https://justinjhlo.github.io/publication/poster/2018-iafpa-OPTL.pdf){.btn .btn-outline-info}
+[Abstract](publication/abstract/2018-iafpa-OPTL.pdf){.btn .btn-outline-primary .mx-1}[Poster](publication/poster/2018-iafpa-OPTL.pdf){.btn .btn-outline-info}
 
 #### Exploring the effects of bilingualism on filled pauses: An acoustic-phonetic perspective
 **Justin J. H. Lo**  
 2018 Colloquium of the British Association of Academic Phoneticians (BAAP), Canterbury, Kent, UK, 12–14 April
 
-[Abstract](https://justinjhlo.github.io/publication/abstract/2018-baap-bilingualfp.pdf){.btn .btn-outline-primary .mx-1}[Slides](https://justinjhlo.github.io/publication/slides/2018-baap-bilingualfp.pdf){.btn .btn-outline-warning}
+[Abstract](publication/abstract/2018-baap-bilingualfp.pdf){.btn .btn-outline-primary .mx-1}[Slides](publication/slides/2018-baap-bilingualfp.pdf){.btn .btn-outline-warning}
 
 ### 2016
 #### Rhythm variation in varieties of English: A quantitative comparison between Punjabi English and Standard Southern British English
 **Justin J. H. Lo**  
 4th Postgraduate and Academic Researchers in Linguistics at York (PARLAY) Conference, York, UK, 2 September
 
-[Abstract](https://justinjhlo.github.io/publication/abstract/2016-parlay-rhythm.pdf){.btn .btn-outline-primary .mx-1}
+[Abstract](publication/abstract/2016-parlay-rhythm.pdf){.btn .btn-outline-primary .mx-1}
 
 #### The effect of bilingualism on filled pauses and their discriminatory power
 **Justin J. H. Lo**  
 25th Annual Conference of the International Association for Forensic Phonetics and Acoustics (IAFPA), York, UK, 24–27 July
 
-[Abstract](https://justinjhlo.github.io/publication/abstract/2016-iafpa-bilingualfp.pdf){.btn .btn-outline-primary .mx-1}[Poster](https://justinjhlo.github.io/publication/poster/2016-iafpa-bilingualfp.pdf){.btn .btn-outline-info}
+[Abstract](publication/abstract/2016-iafpa-bilingualfp.pdf){.btn .btn-outline-primary .mx-1}[Poster](publication/poster/2016-iafpa-bilingualfp.pdf){.btn .btn-outline-info}
 
 
 

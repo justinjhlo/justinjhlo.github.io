@@ -106,7 +106,7 @@ baap2024-nasal:
   type: conference
   venue: 2024 Colloquium of the British Association of Academic Phoneticians (BAAP)
   venue-details: "Cardiff, UK, 25–27 March"
-  abstract: https://justinjhlo.github.io/publication/abstract/2024-baap-BrEnasal.pdf
+  abstract: publication/abstract/2024-baap-BrEnasal.pdf
 
 baap2024-north-korean:
   title: "A community within a community: Talk and identity in the North Korean refugee diaspora"
@@ -119,7 +119,7 @@ baap2024-north-korean:
   type: conference
   venue: 2024 Colloquium of the British Association of Academic Phoneticians (BAAP)
   venue-details: "Cardiff, UK, 25–27 March"
-  abstract: https://justinjhlo.github.io/publication/abstract/2024-baap-nkvowels.pdf
+  abstract: publication/abstract/2024-baap-nkvowels.pdf
 
 manyspeech:
   title: "Multidimensional signals and analytic flexibility: Estimating degrees of freedom in human-speech analyses"
@@ -237,8 +237,8 @@ baap2022-vowel-space-gmm:
   type: conference
   venue: "2022 Colloquium of the British Association of Academic Phoneticians (BAAP)"
   venue-details: "York, UK, 4–8 April"
-  abstract: https://justinjhlo.github.io/publication/abstract/2022-baap-gmmderby.pdf
-  poster: https://justinjhlo.github.io/publication/poster/2022-baap-gmmderby.png
+  abstract: publication/abstract/2022-baap-gmmderby.pdf
+  poster: publication/poster/2022-baap-gmmderby.png
 
 baap2022-coart-constraint:
   title: "Coarticulatory variability and phonological constraints"
@@ -285,7 +285,7 @@ iafpa2021-xlang-fvc:
   type: conference
   venue: "29th Annual Conference of the International Association for Forensic Phonetics and Acoustics (IAFPA)"
   venue-details: "Marburg, Germany, 22–25 August"
-  abstract: https://justinjhlo.github.io/publication/abstract/2021-aisv-indivdiag.pdf
+  abstract: publication/abstract/2021-aisv-indivdiag.pdf
 
 ahm-euhm:
   title: "Between *äh(m)* and *euh(m)*: The distribution and realization of filled pauses in the speech of German–French simultaneous bilinguals"
@@ -305,7 +305,7 @@ ismbs2019-french-fp:
   type: conference
   venue: "International Symposium on Monolingual and Bilingual Speech 2019"
   venue-details: "Chania, Greece, 27–30 August"
-  abstract: https://justinjhlo.github.io/publication/abstract/2019-ismbs-frenchfp.pdf
+  abstract: publication/abstract/2019-ismbs-frenchfp.pdf
 
 iafpa2019-biling-ltfd:
   title: "Cross-linguistic stability of the discriminatory power of long-term formant distributions: Testing with bilingual speakers"
@@ -315,8 +315,8 @@ iafpa2019-biling-ltfd:
   type: conference
   venue: "28th Annual Conference of the International Association for Forensic Phonetics and Acoustics (IAFPA)"
   venue-details: "Istanbul, Turkey, 14–17 July"
-  abstract: https://justinjhlo.github.io/publication/abstract/2019-iafpa-ltfd.pdf
-  poster: https://justinjhlo.github.io/publication/poster/2019-iafpa-ltfd.pdf
+  abstract: publication/abstract/2019-iafpa-ltfd.pdf
+  poster: publication/poster/2019-iafpa-ltfd.pdf
   note: "Awarded IAFPA Student Travel Grant"
 
 iafpa2018-biling-s:
@@ -327,8 +327,8 @@ iafpa2018-biling-s:
   type: conference
   venue: "27th Annual Conference of the International Association for Forensic Phonetics and Acoustics (IAFPA)"
   venue-details: "Huddersfield, UK, 29 July–1 August"
-  abstract: https://justinjhlo.github.io/publication/abstract/2018-iafpa-OPTL.pdf
-  poster: https://justinjhlo.github.io/publication/poster/2018-iafpa-OPTL.pdf
+  abstract: publication/abstract/2018-iafpa-OPTL.pdf
+  poster: publication/poster/2018-iafpa-OPTL.pdf
 
 baap2018-biling-fp:
   title: "Exploring the effects of bilingualism on filled pauses: An acoustic-phonetic perspective"
@@ -338,8 +338,8 @@ baap2018-biling-fp:
   type: conference
   venue: "2018 Colloquium of the British Association of Academic Phoneticians (BAAP)"
   venue-details: "Canterbury, Kent, UK, 12–14 April"
-  abstract: https://justinjhlo.github.io/publication/abstract/2018-baap-bilingualfp.pdf
-  slides: https://justinjhlo.github.io/publication/slides/2018-baap-bilingualfp.pdf
+  abstract: publication/abstract/2018-baap-bilingualfp.pdf
+  slides: publication/slides/2018-baap-bilingualfp.pdf
 
 parlay2016-punjabi-rhythm:
   title: "Rhythm variation in varieties of English: A quantitative comparison between Punjabi English and Standard Southern British English"
@@ -349,7 +349,7 @@ parlay2016-punjabi-rhythm:
   type: conference
   venue: "4th Postgraduate and Academic Researchers in Linguistics at York (PARLAY) Conference"
   venue-details: "York, UK, 2 September"
-  abstract: https://justinjhlo.github.io/publication/abstract/2016-parlay-rhythm.pdf
+  abstract: publication/abstract/2016-parlay-rhythm.pdf
 
 iafpa2016-biling-fp:
   title: "The effect of bilingualism on filled pauses and their discriminatory power"
@@ -359,5 +359,5 @@ iafpa2016-biling-fp:
   type: conference
   venue: "25th Annual Conference of the International Association for Forensic Phonetics and Acoustics (IAFPA)"
   venue-details: "York, UK, 24–27 July"
-  abstract: https://justinjhlo.github.io/publication/abstract/2016-iafpa-bilingualfp.pdf
-  poster: https://justinjhlo.github.io/publication/poster/2016-iafpa-bilingualfp.pdf
+  abstract: publication/abstract/2016-iafpa-bilingualfp.pdf
+  poster: publication/poster/2016-iafpa-bilingualfp.pdf
