@@ -55,8 +55,14 @@ Francesco Rodriquez, Marianne Pouplier, Roy Alderton, **Justin J. H. Lo**, Bronw
 ## Other conference presentations
 
 ### 2024
+#### The effects of vocal effort on nasal coarticulation
+**Justin J. H. Lo**, Ellie Judson  
+32nd Annual Conference of the International Association for Forensic Phonetics and Acoustics (IAFPA), Montréal, Canada, 28-31 July
+
+
+
 #### Residual rhoticity in East Lancashire English: Variation in Blackburn and Burnley
-Claire Nance, Maya Dewhurst, Lois Fairclough, Pamels Forster, Sam Kirkham, **Justin J. H. Lo**, Jessica McMonagle, Takayuki Nagamine, Seren Parkman, Haleema Rabani, Danielle Turton, Di Wang  
+Claire Nance, Maya Dewhurst, Lois Fairclough, Pamela Forster, Sam Kirkham, **Justin J. H. Lo**, Jessica McMonagle, Takayuki Nagamine, Seren Parkman, Haleema Rabani, Danielle Turton, Di Wang  
 10th Northern Englishes Workshop (NEW10), Chester, UK, 27-28 June
 
 

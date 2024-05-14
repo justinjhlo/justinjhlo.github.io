@@ -1,10 +1,20 @@
+iafpa24-nasal:
+  title: "The effects of vocal effort on nasal coarticulation"
+  author:
+    - self
+    - Ellie Judson
+  year: 2024
+  type: conference
+  venue: "32nd Annual Conference of the International Association for Forensic Phonetics and Acoustics (IAFPA)"
+  venue-details: "Montréal, Canada, 28-31 July"
+
 new10-rhoticity:
   title: "Residual rhoticity in East Lancashire English: Variation in Blackburn and Burnley"
   author:
     - Claire Nance
     - Maya Dewhurst
     - Lois Fairclough
-    - Pamels Forster
+    - Pamela Forster
     - Sam Kirkham
     - self
     - Jessica McMonagle
