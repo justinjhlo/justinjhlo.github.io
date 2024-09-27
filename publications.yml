@@ -1,3 +1,30 @@
+nasalcoart-3lang:
+  title: "Language-specific and individual variation in anticipatory nasal coarticulation: A comparative study of American English, French, and German"
+  author:
+    - Marianne Pouplier
+    - Francesco Rodriquez
+    - self
+    - Roy Alderton
+    - Bronwen G. Evans
+    - Eva Reinisch
+    - Christopher Carignan
+  year: 2024
+  type: paper
+  venue: Journal of Phonetics
+  venue-details: 107, 101365
+  url: https://doi.org/10.1016/j.wocn.2024.101365
+
+iafpa24-accomm:
+  title: "The effects of accent and visual cues on speech accommodation in Hong Kong English"
+  author:
+    - self
+    - Ben Gibb-Reid
+    - Grace Wenling Cao
+  year: 2024
+  type: conference
+  venue: "32nd Annual Conference of the International Association for Forensic Phonetics and Acoustics (IAFPA)"
+  venue-details: "Montréal, Canada, 28-31 July"
+
 iafpa24-nasal:
   title: "The effects of vocal effort on nasal coarticulation"
   author:
@@ -42,7 +69,6 @@ labphon2024-nasal-perception:
   type: conference
   venue: 19th Conference on Laboratory Phonology (LabPhon)
   venue-details: "Seoul, South Korea, 27–29 June"
-
 
 labphon2024-fr-perception:
   title: "Perception of time-varying coarticulatory cues: Nasal and labial coarticulation in French"

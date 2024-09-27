@@ -9,6 +9,11 @@ keep-md: true
 
 ## Journal articles & Book chapters
 
+### 2024
+#### Language-specific and individual variation in anticipatory nasal coarticulation: A comparative study of American English, French, and German
+Marianne Pouplier, Francesco Rodriquez, **Justin J. H. Lo**, Roy Alderton, Bronwen G. Evans, Eva Reinisch, Christopher Carignan  
+[*Journal of Phonetics*](https://doi.org/10.1016/j.wocn.2024.101365), 107, 101365
+
 ### 2023
 #### Multidimensional signals and analytic flexibility: Estimating degrees of freedom in human-speech analyses
 Stefano Coretta, Joseph V. Casillas, [98 authors], **Justin J. H. Lo**, [55 authors], Timo B. Roettger  
@@ -55,6 +60,12 @@ Francesco Rodriquez, Marianne Pouplier, Roy Alderton, **Justin J. H. Lo**, Bronw
 ## Other conference presentations
 
 ### 2024
+#### The effects of accent and visual cues on speech accommodation in Hong Kong English
+**Justin J. H. Lo**, Ben Gibb-Reid, Grace Wenling Cao  
+32nd Annual Conference of the International Association for Forensic Phonetics and Acoustics (IAFPA), Montréal, Canada, 28-31 July
+
+
+
 #### The effects of vocal effort on nasal coarticulation
 **Justin J. H. Lo**, Ellie Judson  
 32nd Annual Conference of the International Association for Forensic Phonetics and Acoustics (IAFPA), Montréal, Canada, 28-31 July

@@ -19,9 +19,9 @@ page-layout: full
 
 I am a Lecturer in Security and Protection Science at the [Department of Linguistics and English Language, Lancaster University](https://lancaster.ac.uk/linguistics/), where I am affiliated with the [Phonetics Lab](http://wp.lancs.ac.uk/phonetics/) and the [Forensic Linguistics, Cybersecurity and Technology Research Group (FACTOR)](https://www.linkedin.com/company/factor-lancaster/). I am also a memeber of the [Data Science Institute](https://www.lancaster.ac.uk/dsi/).
 
-My research is primarily situated in the area of forensic speech science, with a particular focus on questions related to bilingualism and voice identity. I also have broad interests in sociophonetics and articulatory and acoustic phonetics, and am keen on bringing theoretical, practical and methodological insights from these areas to the field of forensic phonetics.
+My research interests lie broadly in speech variation on the levels of languages, communities, and individuals. I work at the intersection of phonetics, sociolinguistics, and forensic speech science, and am keen on bringing thereotical, practical and methodological insights from different areas to inform the field of forensic phonetics.
 
-Previously, I was a postdoctoral Research Fellow at the Department of Speech, Hearing and Phonetic Sciences, University College London, where I investigated the role of phonological contrasts and speaker variability on coarticulation as a member of the DFG-AHRC funded project *Speakers, Listeners, Langauges: Patterns of Variability and Contrast in Spoken Language Dynamics*.
+My research in forensic speech science has addressed questions related to bilingualism and voice identity, with a focus on language mismatch in forensic voice comparison. In the areas of sociolinguistics and laboratory phonology, I work on phonetic accommodation, the sociophonetics of migrant communities, as well as individual and cross-linguistic variation in coarticulatory phenomena.
 
 Outside work, I spend most time solving crosswords, living in fictional worlds and struggling to follow baking recipes.
 
