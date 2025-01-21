@@ -40,19 +40,19 @@ Stefano Coretta, Joseph V. Casillas, [98 authors], **Justin J. H. Lo**, [55 auth
 ### 2023
 #### Being North Korean in Koreatown: The role of identity & experience in accommodation in the London North Korean community
 Bronwen G. Evans, Rakgyun Shin, **Justin J. H. Lo**  
-[*Proceedings of the 20th International Congress of Phonetic Sciences*](https://guarant.cz/icphs2023/148.pdf), 3537–3542 (Eds: R. Skarnitzl & J. Volín; Guarant International)
+[*Proceedings of the 20th International Congress of Phonetic Sciences*](https://www.internationalphoneticassociation.org/icphs-proceedings/ICPhS2023/full_papers/148.pdf), 3537–3542 (Eds: R. Skarnitzl & J. Volín; Guarant International)
 
 #### Language specificity vs speaker variability of anticipatory labial coarticulation in German and English
 **Justin J. H. Lo**, Christopher Carignan, Marianne Pouplier, Roy Alderton, Francesco Rodriquez, Bronwen G. Evans, Eva Reinisch  
-[*Proceedings of the 20th International Congress of Phonetic Sciences*](https://guarant.cz/icphs2023/314.pdf), 2105–2109 (Eds: R. Skarnitzl & J. Volín; Guarant International)
+[*Proceedings of the 20th International Congress of Phonetic Sciences*](https://www.internationalphoneticassociation.org/icphs-proceedings/ICPhS2023/full_papers/314.pdf), 2105–2109 (Eds: R. Skarnitzl & J. Volín; Guarant International)
 
 #### The window of opportunity: Anticipatory nasal coarticulation in three languages
 Marianne Pouplier, Francesco Rodriquez, Roy Alderton, **Justin J. H. Lo**, Eva Reinisch, Bronwen G. Evans, Christopher Carignan  
-[*Proceedings of the 20th International Congress of Phonetic Sciences*](https://guarant.cz/icphs2023/159.pdf), 2085–2089 (Eds: R. Skarnitzl & J. Volín; Guarant International)
+[*Proceedings of the 20th International Congress of Phonetic Sciences*](https://www.internationalphoneticassociation.org/icphs-proceedings/ICPhS2023/full_papers/159.pdf), 2085–2089 (Eds: R. Skarnitzl & J. Volín; Guarant International)
 
 #### What French speakers' nasal vowels tell us about anticipatory nasal coarticulation
 Francesco Rodriquez, Marianne Pouplier, Roy Alderton, **Justin J. H. Lo**, Bronwen G. Evans, Eva Reinisch, Christopher Carignan  
-[*Proceedings of the 20th International Congress of Phonetic Sciences*](https://guarant.cz/icphs2023/1049.pdf), 848–852 (Eds: R. Skarnitzl & J. Volín; Guarant International)
+[*Proceedings of the 20th International Congress of Phonetic Sciences*](https://www.internationalphoneticassociation.org/icphs-proceedings/ICPhS2023/full_papers/1049.pdf), 848–852 (Eds: R. Skarnitzl & J. Volín; Guarant International)
 
 ### 2021
 #### Cross-linguistic speaker individuality of long-term formant distributions: Phonetic and forensic perspectives
