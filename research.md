@@ -12,7 +12,7 @@ keep-md: true
 ### 2024
 #### Articulatory phonetics in the market: Combining public engagement with ultrasound data collection
 Claire Nance, Maya Dewhurst, Lois Fairclough, Pamela Forster, Sam Kirkham, **Justin J. H. Lo**, Jessica McMonagle, Takayuki Nagamine, Seren Parkman, Haleema Rabani, Andrea Siem, Danielle Turton, Di Wang  
-[*Linguistics Vanguard*](https://doi.org/10.1515/lingvan-2024-0020)
+[*Linguistics Vanguard*](https://doi.org/10.1515/lingvan-2024-0020), 10(1), 51––62
 
 #### Language-specific and individual variation in anticipatory nasal coarticulation: A comparative study of American English, French, and German
 Marianne Pouplier, Francesco Rodriquez, **Justin J. H. Lo**, Roy Alderton, Bronwen G. Evans, Eva Reinisch, Christopher Carignan  
