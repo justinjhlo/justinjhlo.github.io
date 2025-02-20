@@ -9,6 +9,11 @@ keep-md: true
 
 ## Journal articles & Book chapters
 
+### 2025
+#### Nasal coarticulation in Lombard speech
+**Justin J. H. Lo**  
+[*Speech Communication*](https://doi.org/10.1016/j.specom.2025.103205), Article 103205
+
 ### 2024
 #### Articulatory phonetics in the market: Combining public engagement with ultrasound data collection
 Claire Nance, Maya Dewhurst, Lois Fairclough, Pamela Forster, Sam Kirkham, **Justin J. H. Lo**, Jessica McMonagle, Takayuki Nagamine, Seren Parkman, Haleema Rabani, Andrea Siem, Danielle Turton, Di Wang  
