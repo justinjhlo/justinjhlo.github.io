@@ -12,7 +12,7 @@ keep-md: true
 ### 2025
 #### Nasal coarticulation in Lombard speech
 **Justin J. H. Lo**  
-[*Speech Communication*](https://doi.org/10.1016/j.specom.2025.103205), Article 103205
+[*Speech Communication*](https://doi.org/10.1016/j.specom.2025.103205), 169, Article 103205
 
 ### 2024
 #### Articulatory phonetics in the market: Combining public engagement with ultrasound data collection
