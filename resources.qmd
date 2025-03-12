@@ -20,8 +20,9 @@ As the package was developed primarily to support my own PhD work, there may be 
 
 [GitHub](https://github.com/justinjhlo/fvclrr){.btn .btn-outline-secondary}
 
-## Linguistic games
+## Educational
 
-Some (currently, one) educational linguistic games that I have written myself:
+Here are some of the interactive games and demonstrations that I have made using Shiny for my teaching:
 
 - [Minimal pair memory cards](http://justinjhlo.shinyapps.io/minimal-pairs/): Match words in English that can form a minimal pair
+- [Nyquist frequency & Aliasing](http://justinjhlo.shinyapps.io/nyquist_demo/): Visualise signal sampling and the concept of Nyquist frequency

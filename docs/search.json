@@ -28,11 +28,11 @@
     "text": "fvclrr\nI developed an R package, fvclrr, that can facilitate likelihood ratio based testing in forensic voice comparison. At the moment, the package supports modelling via MVKD and GMM–UBM, and calculates two metrics, ERR and Cllr, by default. It also supports cross-validated testing, but this feature has not been extensively tested.\nAs the package was developed primarily to support my own PhD work, there may be a number of personal quirks in the way methods are interpreted and implemented.\nGitHub"
   },
   {
-    "objectID": "resources.html#linguistic-games",
-    "href": "resources.html#linguistic-games",
+    "objectID": "resources.html#educational",
+    "href": "resources.html#educational",
     "title": "Resources",
-    "section": "Linguistic games",
-    "text": "Linguistic games\nSome (currently, one) educational linguistic games that I have written myself:\n\nMinimal pair memory cards: Match words in English that can form a minimal pair"
+    "section": "Educational",
+    "text": "Educational\nHere are some of the interactive games and demonstrations that I have made using Shiny for my teaching:\n\nMinimal pair memory cards: Match words in English that can form a minimal pair\nNyquist frequency & Aliasing: Visualise signal sampling and the concept of Nyquist frequency"
   },
   {
     "objectID": "index.html",
@@ -74,14 +74,14 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "My current projects include:\n\nThe effect of vocal effort on the variability of nasal coarticulation (IAFPA Research Grant, 2023)\nTalk and identity in the North Korean refugee diaspora (with Bronwen Evans, Jieun Song & Rakgyun Shin, UCL Global Engagement Fund, 2023–24)"
+    "text": "My recent projects include:\n\nThe effect of vocal effort on the variability of nasal coarticulation (IAFPA Research Grant, 2023)\nTalk and identity in the North Korean refugee diaspora (with Bronwen Evans, Jieun Song & Rakgyun Shin, UCL Global Engagement Fund, 2023–24)"
   },
   {
     "objectID": "about.html#research",
     "href": "about.html#research",
     "title": "About",
     "section": "",
-    "text": "My current projects include:\n\nThe effect of vocal effort on the variability of nasal coarticulation (IAFPA Research Grant, 2023)\nTalk and identity in the North Korean refugee diaspora (with Bronwen Evans, Jieun Song & Rakgyun Shin, UCL Global Engagement Fund, 2023–24)"
+    "text": "My recent projects include:\n\nThe effect of vocal effort on the variability of nasal coarticulation (IAFPA Research Grant, 2023)\nTalk and identity in the North Korean refugee diaspora (with Bronwen Evans, Jieun Song & Rakgyun Shin, UCL Global Engagement Fund, 2023–24)"
   },
   {
     "objectID": "about.html#teaching",
