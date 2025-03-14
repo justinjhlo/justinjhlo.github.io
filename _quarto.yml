@@ -15,7 +15,12 @@ website:
       - href: index.qmd
         text: Home
       - href: about.qmd
-      - href: research.qmd
+      - text: Research
+        menu:
+          - href: research.qmd
+            text: Publications
+          - href: projects.qmd
+      - href: teaching.qmd
       - href: resources.qmd
     pinned: true
     tools:

@@ -2,26 +2,17 @@
 title: "About"
 ---
 
-## Research
+## Academic positions
 
-My recent projects include:
+**Lecturer in Security and Protection Science** (2023-), Linguistics and English Language, Lancaster University
 
-- The effect of vocal effort on the variability of nasal coarticulation ([IAFPA Research Grant](https://www.iafpa.net/about/research-grants/), 2023)
-- Talk and identity in the North Korean refugee diaspora (with [Bronwen Evans](https://www.ucl.ac.uk/pals/people/bronwen-evans), [Jieun Song](https://www.jieunsong.com/) & Rakgyun Shin, [UCL Global Engagement Fund](https://www.ucl.ac.uk/global/funding-staff/global-engagement-funds), 2023–24)
+**Research Fellow** (2021-23), Speech, Hearing and Phonetic Sciences, University College London
 
-## Teaching
-
-I teach on the following modules:
-
-- LING223 English Phonetics
-- LING301a Dissertation Preparation
-- LING429 Forensic Linguistics (Guest lecture)
-- LING488 Foundations of Speech Science
-- LING541 Quantitative Data and Analysis for Applied Linguistics
+**Lecturer** (2020-21), School of Music, Humanities & Media, University of Huddersfield
 
 ## Education
 
-**PhD in Linguistics**, University of York
+**PhD in Linguistics** (2021), University of York
 
 - Dissertation: [Issues of bilingualism in likelihood ratio-based forensic voice comparison](https://etheses.whiterose.ac.uk/30007/)
 - Supervisors: Paul Foulkes & Vincent Hughes
@@ -33,7 +24,7 @@ I teach on the following modules:
 
 **Bachelor of Laws (Second Class Honours: Division One)**, The University of Hong Kong
 
-## Roles
+## Professional service
 
 PhD Abstracts Editor, [*The International Journal of Speech, Language and the Law*](https://utppublishing.com/journal/ijsll)
 
