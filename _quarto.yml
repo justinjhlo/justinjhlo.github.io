@@ -21,6 +21,7 @@ website:
             text: Publications
           - href: projects.qmd
       - href: teaching.qmd
+        text: "Teaching & Supervision"
       - href: resources.qmd
     pinned: true
     tools:
