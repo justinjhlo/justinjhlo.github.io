@@ -10,7 +10,7 @@ I developed an in-house package Julia to process video data captured using Lallo
 
 I am developing a package in Julia to provide the capacities to manipulate, edit, and extract information from Praat TextGrids, in support of my current work in video data analysis. At this stage, the package supports reading and writing of TextGrids (with various encodings supported), as well as basic querying and manipulation of tiers, points and boundaries.
 
-[GitHub](https://github.com/justinjhlo/TextGrids.jl){.btn .btn-outline-secondary}
+[GitHub](https://github.com/justinjhlo/TextGrids.jl){.btn .btn-outline-secondary target="_blank"}
 
 ## fvclrr
 
@@ -18,11 +18,11 @@ I developed an R package, *fvclrr*, that can facilitate likelihood ratio based t
 
 As the package was developed primarily to support my own PhD work, there may be a number of personal quirks in the way methods are interpreted and implemented.
 
-[GitHub](https://github.com/justinjhlo/fvclrr){.btn .btn-outline-secondary}
+[GitHub](https://github.com/justinjhlo/fvclrr){.btn .btn-outline-secondary target="_blank"}
 
 ## Educational
 
 Here are some of the interactive games and demonstrations that I have made using Shiny for my teaching:
 
-- [Minimal pair memory cards](http://justinjhlo.shinyapps.io/minimal-pairs/): Match words in English that can form a minimal pair
-- [Nyquist frequency & Aliasing](http://justinjhlo.shinyapps.io/nyquist_demo/): Visualise signal sampling and the concept of Nyquist frequency
+- [Minimal pair memory cards](http://justinjhlo.shinyapps.io/minimal-pairs/){target="_blank"}: Match words in English that can form a minimal pair
+- [Nyquist frequency & Aliasing](http://justinjhlo.shinyapps.io/nyquist_demo/){target="_blank"}: Visualise signal sampling and the concept of Nyquist frequency

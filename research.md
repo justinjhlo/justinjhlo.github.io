@@ -12,31 +12,31 @@ keep-md: true
 ### 2025
 #### Nasal coarticulation in Lombard speech
 **Justin J. H. Lo**  
-[*Speech Communication*](https://doi.org/10.1016/j.specom.2025.103205), 169, Article 103205
+[*Speech Communication*](https://doi.org/10.1016/j.specom.2025.103205){target="_blank"}, 169, Article 103205
 
 ### 2024
 #### Articulatory phonetics in the market: Combining public engagement with ultrasound data collection
 Claire Nance, Maya Dewhurst, Lois Fairclough, Pamela Forster, Sam Kirkham, **Justin J. H. Lo**, Jessica McMonagle, Takayuki Nagamine, Seren Parkman, Haleema Rabani, Andrea Siem, Danielle Turton, Di Wang  
-[*Linguistics Vanguard*](https://doi.org/10.1515/lingvan-2024-0020), 10(1), 51–62
+[*Linguistics Vanguard*](https://doi.org/10.1515/lingvan-2024-0020){target="_blank"}, 10(1), 51–62
 
 #### Language-specific and individual variation in anticipatory nasal coarticulation: A comparative study of American English, French, and German
 Marianne Pouplier, Francesco Rodriquez, **Justin J. H. Lo**, Roy Alderton, Bronwen G. Evans, Eva Reinisch, Christopher Carignan  
-[*Journal of Phonetics*](https://doi.org/10.1016/j.wocn.2024.101365), 107, 101365
+[*Journal of Phonetics*](https://doi.org/10.1016/j.wocn.2024.101365){target="_blank"}, 107, 101365
 
 ### 2023
 #### Multidimensional signals and analytic flexibility: Estimating degrees of freedom in human-speech analyses
 Stefano Coretta, Joseph V. Casillas, [98 authors], **Justin J. H. Lo**, [55 authors], Timo B. Roettger  
-[*Advances in Methods and Practices in Psychological Science*](http://dx.doi.org/10.1177/25152459231162567), 6(3), 1–29
+[*Advances in Methods and Practices in Psychological Science*](http://dx.doi.org/10.1177/25152459231162567){target="_blank"}, 6(3), 1–29
 
 ### 2021
 #### Seeing the trees in the forest: Diagnosing individual performance in likelihood ratio based forensic voice comparison
 **Justin J. H. Lo**  
-[*Speaker individuality in phonetics and speech sciences: Speech technology and forensic applications*](https://doi.org/10.17469/O2108AISV000004), 77–96 (Eds: C. Bernardasci, D. Dipino, D. Garassion, S. Negrinelli, E. Pellegrino & S. Schmid; Associazione Italiana Scienze della Voce)
+[*Speaker individuality in phonetics and speech sciences: Speech technology and forensic applications*](https://doi.org/10.17469/O2108AISV000004){target="_blank"}, 77–96 (Eds: C. Bernardasci, D. Dipino, D. Garassion, S. Negrinelli, E. Pellegrino & S. Schmid; Associazione Italiana Scienze della Voce)
 
 ### 2020
 #### Between *äh(m)* and *euh(m)*: The distribution and realization of filled pauses in the speech of German–French simultaneous bilinguals
 **Justin J. H. Lo**  
-[*Language and Speech*](https://doi.org/10.1177/0023830919890068), 63(4), 746-768
+[*Language and Speech*](https://doi.org/10.1177/0023830919890068){target="_blank"}, 63(4), 746-768
 
 
 
@@ -45,24 +45,24 @@ Stefano Coretta, Joseph V. Casillas, [98 authors], **Justin J. H. Lo**, [55 auth
 ### 2023
 #### Being North Korean in Koreatown: The role of identity & experience in accommodation in the London North Korean community
 Bronwen G. Evans, Rakgyun Shin, **Justin J. H. Lo**  
-[*Proceedings of the 20th International Congress of Phonetic Sciences*](https://www.internationalphoneticassociation.org/icphs-proceedings/ICPhS2023/full_papers/148.pdf), 3537–3542 (Eds: R. Skarnitzl & J. Volín; Guarant International)
+[*Proceedings of the 20th International Congress of Phonetic Sciences*](https://www.internationalphoneticassociation.org/icphs-proceedings/ICPhS2023/full_papers/148.pdf){target="_blank"}, 3537–3542 (Eds: R. Skarnitzl & J. Volín; Guarant International)
 
 #### Language specificity vs speaker variability of anticipatory labial coarticulation in German and English
 **Justin J. H. Lo**, Christopher Carignan, Marianne Pouplier, Roy Alderton, Francesco Rodriquez, Bronwen G. Evans, Eva Reinisch  
-[*Proceedings of the 20th International Congress of Phonetic Sciences*](https://www.internationalphoneticassociation.org/icphs-proceedings/ICPhS2023/full_papers/314.pdf), 2105–2109 (Eds: R. Skarnitzl & J. Volín; Guarant International)
+[*Proceedings of the 20th International Congress of Phonetic Sciences*](https://www.internationalphoneticassociation.org/icphs-proceedings/ICPhS2023/full_papers/314.pdf){target="_blank"}, 2105–2109 (Eds: R. Skarnitzl & J. Volín; Guarant International)
 
 #### The window of opportunity: Anticipatory nasal coarticulation in three languages
 Marianne Pouplier, Francesco Rodriquez, Roy Alderton, **Justin J. H. Lo**, Eva Reinisch, Bronwen G. Evans, Christopher Carignan  
-[*Proceedings of the 20th International Congress of Phonetic Sciences*](https://www.internationalphoneticassociation.org/icphs-proceedings/ICPhS2023/full_papers/159.pdf), 2085–2089 (Eds: R. Skarnitzl & J. Volín; Guarant International)
+[*Proceedings of the 20th International Congress of Phonetic Sciences*](https://www.internationalphoneticassociation.org/icphs-proceedings/ICPhS2023/full_papers/159.pdf){target="_blank"}, 2085–2089 (Eds: R. Skarnitzl & J. Volín; Guarant International)
 
 #### What French speakers' nasal vowels tell us about anticipatory nasal coarticulation
 Francesco Rodriquez, Marianne Pouplier, Roy Alderton, **Justin J. H. Lo**, Bronwen G. Evans, Eva Reinisch, Christopher Carignan  
-[*Proceedings of the 20th International Congress of Phonetic Sciences*](https://www.internationalphoneticassociation.org/icphs-proceedings/ICPhS2023/full_papers/1049.pdf), 848–852 (Eds: R. Skarnitzl & J. Volín; Guarant International)
+[*Proceedings of the 20th International Congress of Phonetic Sciences*](https://www.internationalphoneticassociation.org/icphs-proceedings/ICPhS2023/full_papers/1049.pdf){target="_blank"}, 848–852 (Eds: R. Skarnitzl & J. Volín; Guarant International)
 
 ### 2021
 #### Cross-linguistic speaker individuality of long-term formant distributions: Phonetic and forensic perspectives
 **Justin J. H. Lo**  
-[*Proceedings of Interspeech 2021*](https://doi.org/10.21437/Interspeech.2021-1699), 416–420 (Brno, Czech Republic, 30 August–3 September)
+[*Proceedings of Interspeech 2021*](https://doi.org/10.21437/Interspeech.2021-1699){target="_blank"}, 416–420 (Brno, Czech Republic, 30 August–3 September)
 
 
 

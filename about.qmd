@@ -14,7 +14,7 @@ title: "About"
 
 **PhD in Linguistics** (2021), University of York
 
-- Dissertation: [Issues of bilingualism in likelihood ratio-based forensic voice comparison](https://etheses.whiterose.ac.uk/30007/)
+- Dissertation: [Issues of bilingualism in likelihood ratio-based forensic voice comparison](https://etheses.whiterose.ac.uk/30007/){target="_blank"}
 - Supervisors: Paul Foulkes & Vincent Hughes
 
 **MSc in Forensic Speech Science (Distinction)**, University of York
@@ -26,9 +26,9 @@ title: "About"
 
 ## Professional service
 
-PhD Abstracts Editor, [*The International Journal of Speech, Language and the Law*](https://utppublishing.com/journal/ijsll)
+PhD Abstracts Editor, [*The International Journal of Speech, Language and the Law*](https://utppublishing.com/journal/ijsll){target="_blank"}
 
-Treasurer, [UK Linguistics Olympiad](https://www.uklo.org/)
+Treasurer, [UK Linguistics Olympiad](https://www.uklo.org/){target="_blank"}
 
 ## Memberships
 
