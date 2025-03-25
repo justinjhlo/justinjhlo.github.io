@@ -64,9 +64,9 @@ for (i, p) in enumerate(conf)
     println(p["venue"] * (haskey(p, "venue-details") ? ", " * p["venue-details"] : ""))
     println("")
     
-    haskey(p, "abstract") && print("[Abstract](" * p["abstract"] * "){.btn .btn-outline-primary .mx-1}")
-    haskey(p, "poster") && print("[Poster](" * p["poster"] * "){.btn .btn-outline-info}")
-    haskey(p, "slides") && print("[Slides](" * p["slides"] * "){.btn .btn-outline-warning}")
+    haskey(p, "abstract") && print("[Abstract](" * p["abstract"] * "){.btn .btn-outline-primary .mx-1 target=\"_blank\"}")
+    haskey(p, "poster") && print("[Poster](" * p["poster"] * "){.btn .btn-outline-info target=\"_blank\"}")
+    haskey(p, "slides") && print("[Slides](" * p["slides"] * "){.btn .btn-outline-warning target=\"_blank\"}")
     println("")
     println("")
 end
