@@ -56,6 +56,7 @@ iafpa24-accomm:
   type: conference
   venue: "32nd Annual Conference of the International Association for Forensic Phonetics and Acoustics (IAFPA)"
   venue-details: "Montréal, Canada, 28-31 July"
+  abstract: publication/abstract/2024-iafpa-accomm.pdf
 
 iafpa24-nasal:
   title: "The effects of vocal effort on nasal coarticulation"
@@ -66,6 +67,7 @@ iafpa24-nasal:
   type: conference
   venue: "32nd Annual Conference of the International Association for Forensic Phonetics and Acoustics (IAFPA)"
   venue-details: "Montréal, Canada, 28-31 July"
+  abstract: publication/abstract/2024-iafpa-nasal.pdf
 
 new10-rhoticity:
   title: "Residual rhoticity in East Lancashire English: Variation in Blackburn and Burnley"
@@ -86,6 +88,7 @@ new10-rhoticity:
   type: conference
   venue: 10th Northern Englishes Workshop (NEW10)
   venue-details: "Chester, UK, 27-28 June"
+  abstract: publication/abstract/2024-new-rhoticity.pdf
 
 labphon2024-nasal-perception:
   title: "Using anticipatory nasal coarticulation for word recognition in German and French"
@@ -101,6 +104,7 @@ labphon2024-nasal-perception:
   type: conference
   venue: 19th Conference on Laboratory Phonology (LabPhon)
   venue-details: "Seoul, South Korea, 27–29 June"
+  abstract: publication/abstract/2024-labphon-nasalperception.pdf
 
 labphon2024-fr-perception:
   title: "Perception of time-varying coarticulatory cues: Nasal and labial coarticulation in French"
@@ -116,6 +120,7 @@ labphon2024-fr-perception:
   type: conference
   venue: 19th Conference on Laboratory Phonology (LabPhon)
   venue-details: "Seoul, South Korea, 27–29 June"
+  abstract: publication/abstract/2024-labphon-frperception.pdf
 
 labphon2024-br-nasal:
   title: "Speaker- and vowel-dependent anticipatory nasal coarticulation in Southern British English"
@@ -125,6 +130,7 @@ labphon2024-br-nasal:
   type: conference
   venue: 19th Conference on Laboratory Phonology (LabPhon)
   venue-details: "Seoul, South Korea, 27–29 June"
+  abstract: publication/abstract/2024-labphon-brnasal.pdf
 
 issp2024-fr-perception:
   title: "Comparing the real-time perception of French nasal and labial coarticulation"
@@ -140,6 +146,7 @@ issp2024-fr-perception:
   type: conference
   venue: 13th International Seminar on Speech Production (ISSP)
   venue-details: "Autrans, France, 13-17 May"
+  abstract: publication/abstract/2024-issp-frperception.pdf
 
 issp2024-labial-perception:
   title: "The interaction between phonetics and phonology when processing the acoustic signal: Evidence from labial coarticulation in English and French"
@@ -155,6 +162,7 @@ issp2024-labial-perception:
   type: conference
   venue: 13th International Seminar on Speech Production (ISSP)
   venue-details: "Autrans, France, 13-17 May"
+  abstract: publication/abstract/2024-issp-labialperception.pdf
 
 baap2024-nasal:
   title: "A nasometric study of anticipatory vowel nasalisation in Southern British English"

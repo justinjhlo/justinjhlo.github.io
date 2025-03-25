@@ -2,7 +2,7 @@
 title: "Research"
 echo: false
 keep-md: true
-jupyter: julia-1.6
+jupyter: julia-1.11
 ---
 
 ```{julia}

@@ -73,49 +73,49 @@ Francesco Rodriquez, Marianne Pouplier, Roy Alderton, **Justin J. H. Lo**, Bronw
 **Justin J. H. Lo**, Ben Gibb-Reid, Grace Wenling Cao  
 32nd Annual Conference of the International Association for Forensic Phonetics and Acoustics (IAFPA), Montréal, Canada, 28-31 July
 
-
+[Abstract](publication/abstract/2024-iafpa-accomm.pdf){.btn .btn-outline-primary .mx-1}
 
 #### The effects of vocal effort on nasal coarticulation
 **Justin J. H. Lo**, Ellie Judson  
 32nd Annual Conference of the International Association for Forensic Phonetics and Acoustics (IAFPA), Montréal, Canada, 28-31 July
 
-
+[Abstract](publication/abstract/2024-iafpa-nasal.pdf){.btn .btn-outline-primary .mx-1}
 
 #### Residual rhoticity in East Lancashire English: Variation in Blackburn and Burnley
 Claire Nance, Maya Dewhurst, Lois Fairclough, Pamela Forster, Sam Kirkham, **Justin J. H. Lo**, Jessica McMonagle, Takayuki Nagamine, Seren Parkman, Haleema Rabani, Danielle Turton, Di Wang  
 10th Northern Englishes Workshop (NEW10), Chester, UK, 27-28 June
 
-
+[Abstract](publication/abstract/2024-new-rhoticity.pdf){.btn .btn-outline-primary .mx-1}
 
 #### Using anticipatory nasal coarticulation for word recognition in German and French
 Eva Reinisch, Marianne Pouplier, Francesco Rodriquez, Phil J. Howson, **Justin J. H. Lo**, Christopher Carignan, Bronwen G. Evans  
 19th Conference on Laboratory Phonology (LabPhon), Seoul, South Korea, 27–29 June
 
-
+[Abstract](publication/abstract/2024-labphon-nasalperception.pdf){.btn .btn-outline-primary .mx-1}
 
 #### Perception of time-varying coarticulatory cues: Nasal and labial coarticulation in French
 Francesco Rodriquez, Marianne Pouplier, Phil J. Howson, Eva Reinisch, **Justin J. H. Lo**, Christopher Carignan, Bronwen G. Evans  
 19th Conference on Laboratory Phonology (LabPhon), Seoul, South Korea, 27–29 June
 
-
+[Abstract](publication/abstract/2024-labphon-frperception.pdf){.btn .btn-outline-primary .mx-1}
 
 #### Speaker- and vowel-dependent anticipatory nasal coarticulation in Southern British English
 **Justin J. H. Lo**  
 19th Conference on Laboratory Phonology (LabPhon), Seoul, South Korea, 27–29 June
 
-
+[Abstract](publication/abstract/2024-labphon-brnasal.pdf){.btn .btn-outline-primary .mx-1}
 
 #### Comparing the real-time perception of French nasal and labial coarticulation
 Francesco Rodriquez, Marianne Pouplier, Phil J. Howson, Eva Reinisch, **Justin J. H. Lo**, Christopher Carignan, Bronwen G. Evans  
 13th International Seminar on Speech Production (ISSP), Autrans, France, 13-17 May
 
-
+[Abstract](publication/abstract/2024-issp-frperception.pdf){.btn .btn-outline-primary .mx-1}
 
 #### The interaction between phonetics and phonology when processing the acoustic signal: Evidence from labial coarticulation in English and French
 Phil J. Howson, Marianne Pouplier, Francesco Rodriquez, Eva Reinisch, **Justin J. H. Lo**, Christopher Carignan, Bronwen G. Evans  
 13th International Seminar on Speech Production (ISSP), Autrans, France, 13-17 May
 
-
+[Abstract](publication/abstract/2024-issp-labialperception.pdf){.btn .btn-outline-primary .mx-1}
 
 #### A nasometric study of anticipatory vowel nasalisation in Southern British English
 **Justin J. H. Lo**  
