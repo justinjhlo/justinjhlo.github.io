@@ -17,7 +17,7 @@ page-layout: full
 
 ::: {.column width="60%"}
 
-I am a Lecturer in Security and Protection Science at the [Department of Linguistics and English Language, Lancaster University](https://lancaster.ac.uk/linguistics/){target="_blank"}, where I am affiliated with the [Phonetics Lab](https://phoneticslab.github.io/){target="_blank"} and the [Forensic Linguistics, Cybersecurity and Technology Research Group (FACTOR)](https://wp.lancs.ac.uk/factor/){target="_blank"}. I am also a memeber of the [Data Science Institute](https://www.lancaster.ac.uk/dsi/){target="_blank"}. From 2025, I am PhD Abstracts Editor for [*The International Journal of Speech, Language and the Law*](https://utppublishing.com/journal/ijsll){target="_blank"}.
+I am a Lecturer in Security and Protection Science at the [Department of Linguistics and English Language, Lancaster University](https://lancaster.ac.uk/linguistics/){target="_blank"}, where I am affiliated with the [Phonetics Lab](https://phoneticslab.github.io/){target="_blank"} and the [Forensic Linguistics, Cybersecurity and Technology Research Group (FACTOR)](https://wp.lancs.ac.uk/factor/){target="_blank"}. I am also a memeber of the [Data Science Institute](https://www.lancaster.ac.uk/dsi/){target="_blank"}. I am the PhD Abstracts Editor for [*The International Journal of Speech, Language and the Law*](https://utppublishing.com/journal/ijsll){target="_blank"}.
 
 My research interests lie broadly in speech variation on the levels of languages, communities, and individuals. I work at the intersection of phonetics, sociolinguistics, and forensic speech science, and am keen on bringing thereotical, practical and methodological insights from different areas to inform the field of forensic phonetics.
 
