@@ -1,3 +1,29 @@
+interspeech2025-articulatory-strategy:
+  title: "Articulatory strategy in vowel production as a basis for speaker discrimination"
+  author:
+    - self
+    - Patrycja Strycharczuk
+    - Sam Kirkham
+  year: 2025
+  type: proceedings
+  venue: Proceedings of Interspeech 2025
+  venue-details: "Rotterdam, The Netherlands, 17-21 August"
+  url: ""
+
+interspeech2025-nosey:
+  title: "Nosey: Open-source hardware for acoustic nasalance"
+  author:
+    - Maya Dewhurst
+    - Jack Collins
+    - self
+    - Roy Alderton
+    - Sam Kirkham
+  year: 2025
+  type: proceedings
+  venue: Proceedings of Interspeech 2025
+  venue-details: "Rotterdam, The Netherlands, 17-21 August"
+  url: ""
+
 nasalcoart-lombard:
   title: "Nasal coarticulation in Lombard speech"
   author:
