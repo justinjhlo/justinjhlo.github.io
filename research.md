@@ -45,11 +45,11 @@ Stefano Coretta, Joseph V. Casillas, [98 authors], **Justin J. H. Lo**, [55 auth
 ### 2025
 #### Articulatory strategy in vowel production as a basis for speaker discrimination
 **Justin J. H. Lo**, Patrycja Strycharczuk, Sam Kirkham  
-[*Proceedings of Interspeech 2025*](https://arxiv.org/abs/2505.20995){target="_blank"}, Rotterdam, The Netherlands, 17-21 August
+[*Proceedings of Interspeech 2025*](https://doi.org/10.21437/Interspeech.2025-666){target="_blank"}, 3504-3508 (Rotterdam, The Netherlands, 17-21 August)
 
 #### Nosey: Open-source hardware for acoustic nasalance
 Maya Dewhurst, Jack Collins, **Justin J. H. Lo**, Roy Alderton, Sam Kirkham  
-[*Proceedings of Interspeech 2025*](https://arxiv.org/abs/2505.23339){target="_blank"}, Rotterdam, The Netherlands, 17-21 August
+[*Proceedings of Interspeech 2025*](https://doi.org/10.21437/Interspeech.2025-1775){target="_blank"}, 2265-2269 (Rotterdam, The Netherlands, 17-21 August)
 
 ### 2023
 #### Being North Korean in Koreatown: The role of identity & experience in accommodation in the London North Korean community

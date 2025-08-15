@@ -7,8 +7,8 @@ interspeech2025-articulatory-strategy:
   year: 2025
   type: proceedings
   venue: Proceedings of Interspeech 2025
-  venue-details: "Rotterdam, The Netherlands, 17-21 August"
-  url: https://arxiv.org/abs/2505.20995
+  venue-details: "3504-3508 (Rotterdam, The Netherlands, 17-21 August)"
+  url: https://doi.org/10.21437/Interspeech.2025-666
 
 interspeech2025-nosey:
   title: "Nosey: Open-source hardware for acoustic nasalance"
@@ -21,8 +21,8 @@ interspeech2025-nosey:
   year: 2025
   type: proceedings
   venue: Proceedings of Interspeech 2025
-  venue-details: "Rotterdam, The Netherlands, 17-21 August"
-  url: https://arxiv.org/abs/2505.23339
+  venue-details: "2265-2269 (Rotterdam, The Netherlands, 17-21 August)"
+  url: https://doi.org/10.21437/Interspeech.2025-1775
 
 nasalcoart-lombard:
   title: "Nasal coarticulation in Lombard speech"
