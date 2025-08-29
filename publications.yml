@@ -7,7 +7,7 @@ interspeech2025-articulatory-strategy:
   year: 2025
   type: proceedings
   venue: Proceedings of Interspeech 2025
-  venue-details: "3504-3508 (Rotterdam, The Netherlands, 17-21 August)"
+  venue-details: "3504–3508 (Rotterdam, The Netherlands, 17–21 August)"
   url: https://doi.org/10.21437/Interspeech.2025-666
 
 interspeech2025-nosey:
@@ -21,7 +21,7 @@ interspeech2025-nosey:
   year: 2025
   type: proceedings
   venue: Proceedings of Interspeech 2025
-  venue-details: "2265-2269 (Rotterdam, The Netherlands, 17-21 August)"
+  venue-details: "2265–2269 (Rotterdam, The Netherlands, 17–21 August)"
   url: https://doi.org/10.21437/Interspeech.2025-1775
 
 nasalcoart-lombard:
@@ -81,7 +81,7 @@ iafpa24-accomm:
   year: 2024
   type: conference
   venue: "32nd Annual Conference of the International Association for Forensic Phonetics and Acoustics (IAFPA)"
-  venue-details: "Montréal, Canada, 28-31 July"
+  venue-details: "Montréal, Canada, 28–31 July"
   abstract: publication/abstract/2024-iafpa-accomm.pdf
 
 iafpa24-nasal:
@@ -92,7 +92,7 @@ iafpa24-nasal:
   year: 2024
   type: conference
   venue: "32nd Annual Conference of the International Association for Forensic Phonetics and Acoustics (IAFPA)"
-  venue-details: "Montréal, Canada, 28-31 July"
+  venue-details: "Montréal, Canada, 28–31 July"
   abstract: publication/abstract/2024-iafpa-nasal.pdf
 
 new10-rhoticity:
@@ -113,7 +113,7 @@ new10-rhoticity:
   year: 2024
   type: conference
   venue: 10th Northern Englishes Workshop (NEW10)
-  venue-details: "Chester, UK, 27-28 June"
+  venue-details: "Chester, UK, 27–28 June"
   abstract: publication/abstract/2024-new-rhoticity.pdf
 
 labphon2024-nasal-perception:

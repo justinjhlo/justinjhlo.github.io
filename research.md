@@ -45,11 +45,11 @@ Stefano Coretta, Joseph V. Casillas, [98 authors], **Justin J. H. Lo**, [55 auth
 ### 2025
 #### Articulatory strategy in vowel production as a basis for speaker discrimination
 **Justin J. H. Lo**, Patrycja Strycharczuk, Sam Kirkham  
-[*Proceedings of Interspeech 2025*](https://doi.org/10.21437/Interspeech.2025-666){target="_blank"}, 3504-3508 (Rotterdam, The Netherlands, 17-21 August)
+[*Proceedings of Interspeech 2025*](https://doi.org/10.21437/Interspeech.2025-666){target="_blank"}, 3504–3508 (Rotterdam, The Netherlands, 17–21 August)
 
 #### Nosey: Open-source hardware for acoustic nasalance
 Maya Dewhurst, Jack Collins, **Justin J. H. Lo**, Roy Alderton, Sam Kirkham  
-[*Proceedings of Interspeech 2025*](https://doi.org/10.21437/Interspeech.2025-1775){target="_blank"}, 2265-2269 (Rotterdam, The Netherlands, 17-21 August)
+[*Proceedings of Interspeech 2025*](https://doi.org/10.21437/Interspeech.2025-1775){target="_blank"}, 2265–2269 (Rotterdam, The Netherlands, 17–21 August)
 
 ### 2023
 #### Being North Korean in Koreatown: The role of identity & experience in accommodation in the London North Korean community
@@ -80,19 +80,19 @@ Francesco Rodriquez, Marianne Pouplier, Roy Alderton, **Justin J. H. Lo**, Bronw
 ### 2024
 #### The effects of accent and visual cues on speech accommodation in Hong Kong English
 **Justin J. H. Lo**, Ben Gibb-Reid, Grace Wenling Cao  
-32nd Annual Conference of the International Association for Forensic Phonetics and Acoustics (IAFPA), Montréal, Canada, 28-31 July
+32nd Annual Conference of the International Association for Forensic Phonetics and Acoustics (IAFPA), Montréal, Canada, 28–31 July
 
 [Abstract](publication/abstract/2024-iafpa-accomm.pdf){.btn .btn-outline-primary .mx-1 target="_blank"}
 
 #### The effects of vocal effort on nasal coarticulation
 **Justin J. H. Lo**, Ellie Judson  
-32nd Annual Conference of the International Association for Forensic Phonetics and Acoustics (IAFPA), Montréal, Canada, 28-31 July
+32nd Annual Conference of the International Association for Forensic Phonetics and Acoustics (IAFPA), Montréal, Canada, 28–31 July
 
 [Abstract](publication/abstract/2024-iafpa-nasal.pdf){.btn .btn-outline-primary .mx-1 target="_blank"}
 
 #### Residual rhoticity in East Lancashire English: Variation in Blackburn and Burnley
 Claire Nance, Maya Dewhurst, Lois Fairclough, Pamela Forster, Sam Kirkham, **Justin J. H. Lo**, Jessica McMonagle, Takayuki Nagamine, Seren Parkman, Haleema Rabani, Danielle Turton, Di Wang  
-10th Northern Englishes Workshop (NEW10), Chester, UK, 27-28 June
+10th Northern Englishes Workshop (NEW10), Chester, UK, 27–28 June
 
 [Abstract](publication/abstract/2024-new-rhoticity.pdf){.btn .btn-outline-primary .mx-1 target="_blank"}
 
