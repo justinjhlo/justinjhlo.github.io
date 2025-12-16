@@ -25,7 +25,7 @@ website:
       - href: resources.qmd
     pinned: true
     tools:
-      - icon: twitter
+      - icon: bluesky
         href: https://bsky.app/profile/justinjhlo.bsky.social
         rel: "me"
       - icon: envelope-fill
