@@ -1,9 +1,47 @@
 ---
 title: "Projects"
+callout-icon: false
 ---
 
 My recent funded projects include:
 
-- Speech accommodation in audio-only and audiovisual interactions (Lancaster FASS Research Fund, 2023–24)
-- Talk and identity in the North Korean refugee diaspora (with [Bronwen Evans](https://profiles.ucl.ac.uk/8727-bronwen-evans/){target="_blank"}, [Jieun Song](https://www.jieunsong.com/){target="_blank"} & Rakgyun Shin; [UCL Global Engagement Fund](https://www.ucl.ac.uk/global/funding-staff/global-engagement-funds){target="_blank"}, 2023–24)
-- The effect of vocal effort on the variability of nasal coarticulation ([IAFPA Research Grant](https://www.iafpa.net/about/research-grants/){target="_blank"}, 2023)
+::: {.callout-tip collapse=true}
+
+## Developing a multimodal, interactive and dynamic tool for the visualisation of source similarity in authorship and voice analyses (2026-27)
+
+with [Isobelle Clarke](https://www.lancaster.ac.uk/social-sciences/people/isobelle-clarke){target="_blank"}
+
+Funding: [British Academy Talent Development Award](https://www.thebritishacademy.ac.uk/funding/schemes/talent-development-awards/){target="_blank"}
+
+When language samples, such as text messages or recordings of phone calls, come up in legal evidence, and the issue of who produced them is in dispute, the task of ascertaining their source author or speaker falls to different linguistic subfields depending on whether the object of analysis is text (forensic linguistics) or voice (forensic speech science). In this project, we will produce a new set of digital resources, with the aims of bringing these adjacent but traditionally separate fields closer in conversation and advancing new approaches to public engagement. We will develop a tool for the visualisation of source similarity that is designed for both voice and text, as well as create an accompanying dataset. We will carry out a programme of academic and community engagement activities, where we will disseminate our tool, provide methodological training, stimulate cross-disciplinary dialogue and promote broader understanding of the forensic fields. 
+
+:::
+
+::: {.callout-note collapse=true}
+
+## Speech accommodation in audio-only and audiovisual interactions (2023-24)
+
+Funding: Lancaster FASS Research Fund
+
+:::
+
+::: {.callout-warning collapse=true}
+
+## Talk and identity in the North Korean refugee diaspora (2023-24)
+
+with [Bronwen Evans](https://profiles.ucl.ac.uk/8727-bronwen-evans/){target="_blank"}, [Jieun Song](https://www.jieunsong.com/){target="_blank"} & [Rakgyun Shin](https://research.lancaster-university.uk/en/persons/rak-shin/){target="_blank"}
+
+Funding: [UCL Global Engagement Fund](https://www.ucl.ac.uk/global/funding-staff/global-engagement-funds){target="_blank"}
+
+:::
+
+::: {.callout-tip collapse=true}
+
+## The effect of vocal effort on the variability of nasal coarticulation (2023)
+
+Funding: [IAFPA Research Grant](https://www.iafpa.net/about/research-grants/){target="_blank"}
+
+This study examines the impact of vocal effort on nasal coarticulation, using a combination of acoustic and articulatory methods to shed light on its phonetic effects. It further investigates individual variability of nasal coarticulation across different levels of vocal effort to explore its potential utility in forensic speaker comparison.
+
+:::
+
