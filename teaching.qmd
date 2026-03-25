@@ -6,8 +6,8 @@ title: "Teaching & PhD Supervision"
 
 ### Current
 
-- [Rakgyun Shin](https://research.lancaster-university.uk/en/persons/rak-shin/){target="_blank"} (AHRC funded; co-supervised with Sebastian Muth)
-- [Scarlett Vanroose-Peer](https://research.lancaster-university.uk/en/persons/scarlett-vanroose-peer/){target="_blank"} (ESRC funded; co-supervised with George Brown)
+- [Rakgyun Shin](https://research.lancaster-university.uk/en/persons/rak-shin/){target="_blank"} - A sociophonetic ethnography of the North Korean diaspora in London: Negotiating identity through accent (AHRC funded; co-supervised with [Sebastian Muth](https://www.lancaster.ac.uk/social-sciences/people/sebastian-muth))
+- [Scarlett Vanroose-Peer](https://research.lancaster-university.uk/en/persons/scarlett-vanroose-peer/){target="_blank"} - Voice-mixing in voice identification: The risk and impact of data contamination in forensic voice analysis (ESRC funded; co-supervised with [George Brown](https://www.lancaster.ac.uk/social-sciences/people/georgina-brown))
 
 ### Supervision interests
 
