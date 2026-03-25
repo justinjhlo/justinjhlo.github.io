@@ -1,3 +1,24 @@
+bass2026-tracking-perception:
+  title: "Tracking human perception of deepfake speech in real time"
+  author:
+    - self
+  year: 2026
+  type: conference
+  venue: "5th International Behavioural and Social Sciences in Security Conference (BASS26)"
+  venue-details: "Cardiff, UK, 22–24 June"
+
+baap2026-articulatory-strategy:
+  title: "Articulatory strategy as a source of variation in acoustic vowel dynamics"
+  author:
+    - Patrycja Strycharczuk
+    - self
+    - Sam Kirkham
+  year: 2026
+  type: conference
+  venue: "2026 Colloquium of the British Association of Academic Phoneticians (BAAP)"
+  venue-details: "Warwick, UK, 8–10 April"
+  abstract: publication/abstract/2026-baap-articulatory.pdf
+
 interspeech2025-articulatory-strategy:
   title: "Articulatory strategy in vowel production as a basis for speaker discrimination"
   author:

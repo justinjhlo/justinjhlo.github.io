@@ -77,6 +77,19 @@ Francesco Rodriquez, Marianne Pouplier, Roy Alderton, **Justin J. H. Lo**, Bronw
 
 ## Other conference presentations
 
+### 2026
+#### Tracking human perception of deepfake speech in real time
+**Justin J. H. Lo**  
+5th International Behavioural and Social Sciences in Security Conference (BASS26), Cardiff, UK, 22–24 June
+
+
+
+#### Articulatory strategy as a source of variation in acoustic vowel dynamics
+Patrycja Strycharczuk, **Justin J. H. Lo**, Sam Kirkham  
+2026 Colloquium of the British Association of Academic Phoneticians (BAAP), Warwick, UK, 8–10 April
+
+[Abstract](publication/abstract/2026-baap-articulatory.pdf){.btn .btn-outline-primary .mx-1 target="_blank"}
+
 ### 2024
 #### The effects of accent and visual cues on speech accommodation in Hong Kong English
 **Justin J. H. Lo**, Ben Gibb-Reid, Grace Wenling Cao  
