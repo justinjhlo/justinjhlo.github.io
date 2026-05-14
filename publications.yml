@@ -1,3 +1,24 @@
+strategy-dynamics:
+  title: "Articulatory strategy as a source of variation in acoustic vowel dynamics"
+  author:
+    - Patrycja Strycharczuk
+    - self
+    - Sam Kirkham
+  year: 2026
+  type: paper
+  venue: The Journal of the Acoustical Society of America
+  venue-details: 159(5), 4068–4078
+  url: https://doi.org/10.1121/10.0043814
+
+eps2026-tracking-voiceid:
+  title: "Tracking voice identity perception in authentic vs voice-converted speech"
+  author:
+    - self
+  year: 2026
+  type: conference
+  venue: "Experimental Psychology Society (EPS) Meeting"
+  venue-details: "Colchester, UK, 1–3 July"
+
 bass2026-tracking-perception:
   title: "Tracking human perception of deepfake speech in real time"
   author:

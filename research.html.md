@@ -9,6 +9,11 @@ jupyter: julia-1.11
 
 ## Journal articles & Book chapters
 
+### 2026
+#### Articulatory strategy as a source of variation in acoustic vowel dynamics
+Patrycja Strycharczuk, **Justin J. H. Lo**, Sam Kirkham  
+[*The Journal of the Acoustical Society of America*](https://doi.org/10.1121/10.0043814){target="_blank"}, 159(5), 4068–4078
+
 ### 2025
 #### Nasal coarticulation in Lombard speech
 **Justin J. H. Lo**  
@@ -78,6 +83,12 @@ Francesco Rodriquez, Marianne Pouplier, Roy Alderton, **Justin J. H. Lo**, Bronw
 ## Other conference presentations
 
 ### 2026
+#### Tracking voice identity perception in authentic vs voice-converted speech
+**Justin J. H. Lo**  
+Experimental Psychology Society (EPS) Meeting, Colchester, UK, 1–3 July
+
+
+
 #### Tracking human perception of deepfake speech in real time
 **Justin J. H. Lo**  
 5th International Behavioural and Social Sciences in Security Conference (BASS26), Cardiff, UK, 22–24 June
