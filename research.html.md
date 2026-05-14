@@ -13,7 +13,9 @@ jupyter: julia-1.11
 #### Articulatory strategy as a source of variation in acoustic vowel dynamics
 Patrycja Strycharczuk, **Justin J. H. Lo**, Sam Kirkham  
 [*The Journal of the Acoustical Society of America*](https://doi.org/10.1121/10.0043814){target="_blank"}, 159(5), 4068–4078
+
 [PDF](publication/pdf/2026-jasa-articulatorystrategy.pdf){.btn .btn-outline-primary .mx-1 target="_blank"}
+
 ### 2025
 #### Nasal coarticulation in Lombard speech
 **Justin J. H. Lo**  
