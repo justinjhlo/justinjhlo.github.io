@@ -9,6 +9,7 @@ strategy-dynamics:
   venue: The Journal of the Acoustical Society of America
   venue-details: 159(5), 4068–4078
   url: https://doi.org/10.1121/10.0043814
+  pdf: publication/pdf/2026-jasa-articulatorystrategy.pdf
 
 eps2026-tracking-voiceid:
   title: "Tracking voice identity perception in authentic vs voice-converted speech"

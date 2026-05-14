@@ -30,6 +30,7 @@ for (i, p) in enumerate(papers)
     println("#### " * p["title"])
     println(join(replace.(p["author"], r"^self$" => "**Justin J. H. Lo**"), ", ") * "  ")
     println("[*" * p["venue"] * "*](" * p["url"] * "){target=\"_blank\"}" * (haskey(p, "venue-details") ? ", " * p["venue-details"] : ""))
+    haskey(p, "pdf") && print("[PDF](" * p["pdf"] * "){.btn .btn-outline-primary .mx-1 target=\"_blank\"}")
     println("")
 end
 ```
