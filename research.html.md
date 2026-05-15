@@ -21,24 +21,34 @@ Patrycja Strycharczuk, **Justin J. H. Lo**, Sam Kirkham
 **Justin J. H. Lo**  
 [*Speech Communication*](https://doi.org/10.1016/j.specom.2025.103205){target="_blank"}, 169, Article 103205
 
+[PDF](https://www.sciencedirect.com/science/article/pii/S0167639325000202/pdfft?md5=a6f31c38e7af5465acc30c72e7434886&pid=1-s2.0-S0167639325000202-main.pdf){.btn .btn-outline-primary .mx-1 target="_blank"}
+
 ### 2024
 #### Articulatory phonetics in the market: Combining public engagement with ultrasound data collection
 Claire Nance, Maya Dewhurst, Lois Fairclough, Pamela Forster, Sam Kirkham, **Justin J. H. Lo**, Jessica McMonagle, Takayuki Nagamine, Seren Parkman, Haleema Rabani, Andrea Siem, Danielle Turton, Di Wang  
 [*Linguistics Vanguard*](https://doi.org/10.1515/lingvan-2024-0020){target="_blank"}, 10(1), 51–62
 
+[PDF](https://www.degruyterbrill.com/document/doi/10.1515/lingvan-2024-0020/pdf?licenseType=open-access){.btn .btn-outline-primary .mx-1 target="_blank"}
+
 #### Language-specific and individual variation in anticipatory nasal coarticulation: A comparative study of American English, French, and German
 Marianne Pouplier, Francesco Rodriquez, **Justin J. H. Lo**, Roy Alderton, Bronwen G. Evans, Eva Reinisch, Christopher Carignan  
 [*Journal of Phonetics*](https://doi.org/10.1016/j.wocn.2024.101365){target="_blank"}, 107, 101365
+
+[PDF](https://www.sciencedirect.com/science/article/pii/S0095447024000718/pdfft?md5=1c5ebcdaa1c780c39400c0f36e2f1634&pid=1-s2.0-S0095447024000718-main.pdf){.btn .btn-outline-primary .mx-1 target="_blank"}
 
 ### 2023
 #### Multidimensional signals and analytic flexibility: Estimating degrees of freedom in human-speech analyses
 Stefano Coretta, Joseph V. Casillas, [98 authors], **Justin J. H. Lo**, [55 authors], Timo B. Roettger  
 [*Advances in Methods and Practices in Psychological Science*](http://dx.doi.org/10.1177/25152459231162567){target="_blank"}, 6(3), 1–29
 
+[PDF](https://journals.sagepub.com/doi/pdf/10.1177/25152459231162567){.btn .btn-outline-primary .mx-1 target="_blank"}
+
 ### 2021
 #### Seeing the trees in the forest: Diagnosing individual performance in likelihood ratio based forensic voice comparison
 **Justin J. H. Lo**  
 [*Speaker individuality in phonetics and speech sciences: Speech technology and forensic applications*](https://doi.org/10.17469/O2108AISV000004){target="_blank"}, 77–96 (Eds: C. Bernardasci, D. Dipino, D. Garassion, S. Negrinelli, E. Pellegrino & S. Schmid; Associazione Italiana Scienze della Voce)
+
+[PDF](https://doi.org/10.17469/O2108AISV000004){.btn .btn-outline-primary .mx-1 target="_blank"}
 
 ### 2020
 #### Between *äh(m)* and *euh(m)*: The distribution and realization of filled pauses in the speech of German–French simultaneous bilinguals
@@ -85,6 +95,18 @@ Francesco Rodriquez, Marianne Pouplier, Roy Alderton, **Justin J. H. Lo**, Bronw
 ## Other conference presentations
 
 ### 2026
+#### Perceiving speaker identity in authentic vs voice-converted speech: An eyetracking study
+**Justin J. H. Lo**  
+34th Annual Conference of the International Association for Forensic Phonetics and Acoustics (IAFPA), Trier, Germany, 26–29 July
+
+
+
+#### The impact of accent imitation on voice identity perception
+Emilia Fletcher, **Justin J. H. Lo**  
+34th Annual Conference of the International Association for Forensic Phonetics and Acoustics (IAFPA), Trier, Germany, 26–29 July
+
+
+
 #### Tracking voice identity perception in authentic vs voice-converted speech
 **Justin J. H. Lo**  
 Experimental Psychology Society (EPS) Meeting, Colchester, UK, 1–3 July

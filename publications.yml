@@ -1,3 +1,22 @@
+iafpa2026-perceiving-identity:
+  title: "Perceiving speaker identity in authentic vs voice-converted speech: An eyetracking study"
+  author:
+    - self
+  year: 2026
+  type: conference
+  venue: "34th Annual Conference of the International Association for Forensic Phonetics and Acoustics (IAFPA)"
+  venue-details: "Trier, Germany, 26–29 July"
+
+iafpa2026-accent-disguise:
+  title: "The impact of accent imitation on voice identity perception"
+  author:
+    - Emilia Fletcher
+    - self
+  year: 2026
+  type: conference
+  venue: "34th Annual Conference of the International Association for Forensic Phonetics and Acoustics (IAFPA)"
+  venue-details: "Trier, Germany, 26–29 July"
+
 strategy-dynamics:
   title: "Articulatory strategy as a source of variation in acoustic vowel dynamics"
   author:
@@ -76,6 +95,7 @@ nasalcoart-lombard:
   venue: Speech Communication
   venue-details: 169, Article 103205
   url: https://doi.org/10.1016/j.specom.2025.103205
+  pdf: https://www.sciencedirect.com/science/article/pii/S0167639325000202/pdfft?md5=a6f31c38e7af5465acc30c72e7434886&pid=1-s2.0-S0167639325000202-main.pdf
 
 market-phonetics:
   title: "Articulatory phonetics in the market: Combining public engagement with ultrasound data collection"
@@ -98,6 +118,7 @@ market-phonetics:
   venue: Linguistics Vanguard
   venue-details: 10(1), 51–62
   url: https://doi.org/10.1515/lingvan-2024-0020
+  pdf: https://www.degruyterbrill.com/document/doi/10.1515/lingvan-2024-0020/pdf?licenseType=open-access
 
 nasalcoart-3lang:
   title: "Language-specific and individual variation in anticipatory nasal coarticulation: A comparative study of American English, French, and German"
@@ -114,6 +135,7 @@ nasalcoart-3lang:
   venue: Journal of Phonetics
   venue-details: 107, 101365
   url: https://doi.org/10.1016/j.wocn.2024.101365
+  pdf: https://www.sciencedirect.com/science/article/pii/S0095447024000718/pdfft?md5=1c5ebcdaa1c780c39400c0f36e2f1634&pid=1-s2.0-S0095447024000718-main.pdf
 
 iafpa24-accomm:
   title: "The effects of accent and visual cues on speech accommodation in Hong Kong English"
@@ -270,6 +292,7 @@ manyspeech:
   venue: Advances in Methods and Practices in Psychological Science
   venue-details: "6(3), 1–29"
   url: http://dx.doi.org/10.1177/25152459231162567
+  pdf: https://journals.sagepub.com/doi/pdf/10.1177/25152459231162567
 
 icphs2023-newmalden:
   title: "Being North Korean in Koreatown: The role of identity & experience in accommodation in the London North Korean community"
@@ -401,6 +424,7 @@ trees-forest:
   venue-details: "77–96 (Eds: C. Bernardasci, D. Dipino, D. Garassion, S. Negrinelli, E. Pellegrino & S. Schmid; Associazione Italiana Scienze della Voce)"
   url: https://doi.org/10.17469/O2108AISV000004
   note: "Awarded Franco Ferrero Award (Speech Technology) 2022"
+  pdf: https://doi.org/10.17469/O2108AISV000004
 
 interspeech2021-xling-ltfd:
   title: "Cross-linguistic speaker individuality of long-term formant distributions: Phonetic and forensic perspectives"
