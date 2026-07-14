@@ -10,6 +10,12 @@ jupyter: julia-1.11
 ## Journal articles & Book chapters
 
 ### 2026
+#### The perception of anticipatory nasality in English, French, and German
+Marianne Pouplier, Eva Reinisch, Francesco Rodriquez, Phil Howson, Christopher Carignan, Bronwen G. Evans, **Justin J. H. Lo**  
+[*Journal of Phonetics*](https://doi.org/10.1016/j.wocn.2026.101518){target="_blank"}, 118, 101518
+
+[PDF](https://www.sciencedirect.com/science/article/pii/S009544702600046X/pdfft?md5=6b33e4fe30e7922f220b60ce13bd3c01&pid=1-s2.0-S009544702600046X-main.pdf){.btn .btn-outline-primary .mx-1 target="_blank"}
+
 #### Articulatory strategy as a source of variation in acoustic vowel dynamics
 Patrycja Strycharczuk, **Justin J. H. Lo**, Sam Kirkham  
 [*The Journal of the Acoustical Society of America*](https://doi.org/10.1121/10.0043814){target="_blank"}, 159(5), 4068–4078
