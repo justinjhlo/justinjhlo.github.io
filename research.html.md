@@ -131,6 +131,13 @@ Patrycja Strycharczuk, **Justin J. H. Lo**, Sam Kirkham
 
 [Abstract](publication/abstract/2026-baap-articulatory.pdf){.btn .btn-outline-primary .mx-1 target="_blank"}
 
+### 2025
+#### Language proficiency as a useful index in predicting individual performance of trilingual speakers in cross-language forensic voice comparison using an automatic speaker recognition system
+Grace W. L. Cao, Vincent Hughes, **Justin J. H. Lo**, Peggy Mok  
+33rd Annual Conference of the International Association for Forensic Phonetics and Acoustics (IAFPA), The Hague, The Netherlands, 20–23 July
+
+
+
 ### 2024
 #### The effects of accent and visual cues on speech accommodation in Hong Kong English
 **Justin J. H. Lo**, Ben Gibb-Reid, Grace Wenling Cao  

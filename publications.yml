@@ -104,6 +104,18 @@ interspeech2025-nosey:
   venue-details: "2265–2269 (Rotterdam, The Netherlands, 17–21 August)"
   url: https://doi.org/10.21437/Interspeech.2025-1775
 
+iafpa2025-profieciency:
+  title: "Language proficiency as a useful index in predicting individual performance of trilingual speakers in cross-language forensic voice comparison using an automatic speaker recognition system"
+  author:
+    - Grace W. L. Cao
+    - Vincent Hughes
+    - self
+    - Peggy Mok
+  year: 2025
+  type: conference
+  venue: "33rd Annual Conference of the International Association for Forensic Phonetics and Acoustics (IAFPA)"
+  venue-details: "The Hague, The Netherlands, 20–23 July"
+
 nasalcoart-lombard:
   title: "Nasal coarticulation in Lombard speech"
   author:
